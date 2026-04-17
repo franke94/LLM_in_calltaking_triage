@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/master_clean.iml" filepath="$PROJECT_DIR$/.idea/master_clean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ISCRAM_LLM_in_calltaking.iml" filepath="$PROJECT_DIR$/.idea/ISCRAM_LLM_in_calltaking.iml" />
     </modules>
   </component>
 </project>
