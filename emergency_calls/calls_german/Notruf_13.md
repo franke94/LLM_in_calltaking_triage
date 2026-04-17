@@ -1,0 +1,45 @@
+# Notruf_13
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst.
+- **caller:** Hallo, Julian Oellig von den Stahlwerken.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** Wir bräuchten einmal ein NEF.
+- **calltaker:** Ja, Stahlwerke.
+- **calltaker:** Welches Tor soll die anfahren?
+- **caller:** Anfahrt über Tor 4, Saloja Straße 31, dann wird von dort aus eingewiesen von uns.
+- **calltaker:** Tor 4.
+- **calltaker:** Gut, okay.
+- **calltaker:** Und Sie sind der Herr Müller, sagten Sie?
+- **caller:** Nee, Oellich.
+- **calltaker:** Wie bitte?
+- **caller:** Oellich.
+- **calltaker:** Bellig.
+- **caller:** Oellich.
+- **caller:** O-E. Wir hatten einen Produktausritt im Stahlwerk und ein Mitarbeiter hat Rohreisen, Spritzer von Rohreisen ins Gesicht bekommen.
+- **calltaker:** Bellig.
+- **calltaker:** Okay.
+- **calltaker:** Was ist denn da passiert?
+- **caller:** Unser RTW ist vor Ort und hat jetzt ein NEF nachbestellt.
+- **calltaker:** Okay.
+- **calltaker:** Wissen Sie, wie der Patient heißt?
+- **caller:** Das sagt Christian Friedrichs, 33 Jahre alt.
+- **calltaker:** Friedrich, 33 Jahre alt.
+- **calltaker:** Okay.
+- **calltaker:** Ist er bei Bewusstsein?
+- **calltaker:** Der Problem mit der Atmung?
+- **caller:** Jo.
+- **caller:** Das kann ich Ihnen jetzt sagen.
+- **caller:** Also der ist ja in Behandlung bei unserem RTW.
+- **calltaker:** Mhm.
+- **calltaker:** Und Kreislaufprobleme wissen sie auch nicht, oder?
+- **caller:** Das weiß ich nicht.
+- **calltaker:** Schmerzen?
+- **caller:** Bestimmt.
+- **calltaker:** Okay.
+- **calltaker:** Das Ganze ist jetzt vorhin passiert?
+- **caller:** Ja, genau.
+- **caller:** Also Alarm war jetzt vor 5 Minuten.
+- **calltaker:** Okay.
+- **calltaker:** Dann ist der Notarzt unterwegs.

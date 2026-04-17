@@ -1,0 +1,54 @@
+# Notruf_3
+
+## Dialog
+
+- **calltaker:** Notrufverwaltungsdienst, in welchem Ort ist der Notfall?
+- **caller:** Ja, in Saarbrücken.
+- **calltaker:** In welcher Straße?
+- **caller:** Das ist die Bahnhofstraße in Saarbrücken.
+- **calltaker:** Die Bahnhofstraße, welche Hausnummer?
+- **caller:** Ähm, das Hausnummer sehe ich jetzt hier kein.
+- **caller:** Das ist direkt vor diesem Primark.
+- **calltaker:** Vor dem Primark, okay.
+- **calltaker:** Was ist denn passiert?
+- **caller:** Ähm, da leidet ein Mann.
+- **caller:** Ich glaube, der hecht lang.
+- **caller:** Der leidet auf der Straße.
+- **calltaker:** Lang.
+- **calltaker:** Wie alt ist der denn ungefähr?
+- **caller:** Ja.
+- **caller:** Ja, so 54.
+- **calltaker:** Ungefähr 54.
+- **calltaker:** Kennen Sie den Herr Lang besser?
+- **caller:** Ja, was hätte ich besser?
+- **caller:** Habe ich schon öfters in der Stadt gesehen, aber jetzt kennen so richtig tue ich nicht.
+- **calltaker:** Okay.
+- **calltaker:** Und ist er jetzt aktuell wach und ansprechbar?
+- **caller:** Wenn man ihn anspricht, ja, aber der schläft prinzipiell ansonsten.
+- **calltaker:** Okay, aber wenn Sie ihn ansprechen, reagiert er.
+- **calltaker:** Alles klar.
+- **calltaker:** Hat er Probleme mit der Luft?
+- **caller:** Ja, ja, ja.
+- **caller:** Ne, das auch nicht.
+- **calltaker:** Gut.
+- **calltaker:** Und sagt er, dass er irgendwie Schmerzen hat?
+- **caller:** Nee, der sagt nur, er will schlafen und er riecht halt verdammt stark nur Alkohol.
+- **calltaker:** Okay.
+- **calltaker:** Trinkt er auch gerne mal?
+- **caller:** Ja, das ist stark bekannte Alkoholiker.
+- **caller:** Hatte seinen Rucksack mit einem guten Tetra-Pragwein.
+- **calltaker:** Okay.
+- **calltaker:** Alles klar.
+- **calltaker:** Sehr gut.
+- **calltaker:** Alles klar.
+- **calltaker:** Gut, dann schicke ich Ihnen mal einen Rettungswagen zu.
+- **calltaker:** Der soll sich das Ganze mal angucken.
+- **calltaker:** Können Sie bei ihm bleiben?
+- **caller:** Ja.
+- **caller:** Ja, kann ich machen.
+- **calltaker:** Gut, wenn sich irgendwas verändern sollte, dann rufen Sie bei uns nochmal an, ja?
+- **caller:** Ja, okay.
+- **calltaker:** Alles klar.
+- **calltaker:** Alles Gute.
+- **calltaker:** Tschüss.
+- **caller:** Ja, tschüss.

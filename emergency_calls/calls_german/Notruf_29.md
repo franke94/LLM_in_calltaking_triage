@@ -1,0 +1,73 @@
+# Notruf_29
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** Ja, Maya, mein Name, hallo.
+- **caller:** Ähm, in Lebach sind wir.
+- **calltaker:** In Lebach.
+- **caller:** Genau.
+- **calltaker:** Ja, wie ist die Straße?
+- **caller:** Ja, Jaabacher Straße ist das.
+- **calltaker:** Jabacher Straße, die Hausnummer.
+- **caller:** Genau, das ist, äh, 115 ist die Hausnummer.
+- **caller:** Das ist so in der Nähe von der Unterführung, wo es unter die Gleise geht.
+- **calltaker:** Ja, ist das ein Einfamilienhaus?
+- **caller:** Genau, ist ein Familienhaus, ja.
+- **calltaker:** Okay.
+- **calltaker:** Sie befinden sich dort genau wo, in welchem Stockwerk?
+- **caller:** Äh, direkt im Erdgeschoss, wenn man reinkommt, links in der Küche.
+- **calltaker:** Ja, okay, gut.
+- **calltaker:** Und Sie sind daher?
+- **caller:** Ähm, Maya ist mein Name.
+- **calltaker:** Herr Meier.
+- **calltaker:** Herr Meier, um wen geht es denn?
+- **caller:** Genau.
+- **caller:** Und meine Frau, die ist gestürzt jetzt gerade.
+- **caller:** Aber die soll auf gar keinen Fall nach Leberins Krankenhaus, sondern immer nach St. Louis.
+- **calltaker:** Um Ihre Frau.
+- **calltaker:** Das gucken gleich die Kollegen.
+- **calltaker:** Herr Meier, wie alt ist denn Ihre Frau?
+- **caller:** Die ist, äh, 89 ist die.
+- **calltaker:** 89.
+- **calltaker:** 89, okay, gut.
+- **calltaker:** Ist die Frau Meier denn bei Bewusstsein?
+- **caller:** Ähm.
+- **caller:** Ja, die ist schon beim Bewusstsein, die hat so ein bisschen eine verwaschene Sprache irgendwas.
+- **calltaker:** Atmet sie denn nochmal?
+- **caller:** Ja, ja, würde ich sagen, ja.
+- **calltaker:** Okay.
+- **calltaker:** Gibt sie Kreislaufbeschwerden an?
+- **caller:** Anna!
+- **caller:** Ja, ist ein bisschen schwindelig, sagt sie.
+- **caller:** Aber die redet ganz komisch.
+- **caller:** Also die redet so, weiß ich nicht, als würde nicht mehr so richtig Mund laufen, rund laufen.
+- **calltaker:** Bisschen schwindelig.
+- **calltaker:** Okay.
+- **calltaker:** Hat sie denn momentan Schmerzen?
+- **calltaker:** Hat sie momentan Schmerzen?
+- **caller:** Nee, Schmerzen hat sie keine.
+- **caller:** Die ist so aus dem Stuhl gekippt und liegt jetzt auf dem Boden halt, ne?
+- **calltaker:** Okay.
+- **calltaker:** Gut.
+- **calltaker:** Ja, ist bei der Frau Mayer irgendwas an Vorerkrankungen bekannt?
+- **calltaker:** Schon mal einen Schlaganfall gehabt?
+- **caller:** Nee, Vorerkrankungen hat die keine.
+- **calltaker:** Medikamente, die sie regelmäßig annimmt?
+- **caller:** Nee.
+- **caller:** Och, ja, ganz viele.
+- **caller:** Oh Jesus, ja.
+- **caller:** Bestimmt zehn Stück.
+- **caller:** So fürs Herz ein bisschen und so.
+- **caller:** Aber Vorerkrankungen hat sie keine.
+- **calltaker:** Okay.
+- **calltaker:** Gut, okay.
+- **calltaker:** Gut, die Kollegen sind auf dem Weg zu Ihnen.
+- **caller:** Ja, super.
+- **caller:** Aber wie gesagt, nicht nach Leber ins Krankenhaus, sondern nach St. Louis in die Elisabeth-Klinik-Selse.
+- **calltaker:** Und dann kümmern die sich gleich für Sie, ja?
+- **calltaker:** Ja, das klären Sie mit denen, ja.
+- **calltaker:** Ja, auf Wiederhören.
+- **caller:** Da ist er auch bekannt, ne?
+- **calltaker:** Tschüss.

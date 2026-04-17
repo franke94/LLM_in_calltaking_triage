@@ -1,0 +1,57 @@
+# Notruf_1
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr Rettungsdienst, in welchem Ort ist der Notfall?
+- **caller:** Ja, hallo, Werner.
+- **caller:** Saarbrücken, Enzheim, Johannstraße 33.
+- **caller:** Einfamilienhaut.
+- **calltaker:** In der Johannstraße 33.
+- **calltaker:** Ist das ein Einfamilienhaus oder ein Mehrfamilienhaus?
+- **calltaker:** Einfamilienhaus, in welcher Etage dann?
+- **caller:** Der Ersten.
+- **calltaker:** Ja, das ist das Obergeschoss.
+- **calltaker:** Was ist passiert?
+- **caller:** Ich habe so Brustschmerzen.
+- **calltaker:** Okay, wie ist denn Ihr Name?
+- **caller:** Werner.
+- **calltaker:** Werner.
+- **calltaker:** So, Sie sind selbst betroffen.
+- **calltaker:** Werner ist auch der Name, der an der Klingel steht.
+- **calltaker:** Herr Werner, wie alt sind Sie denn?
+- **caller:** Ja.
+- **caller:** Ich bin 75.
+- **calltaker:** 75, okay.
+- **calltaker:** Und Sie haben jetzt Brustschmerzen.
+- **calltaker:** Ist das jetzt gerade aufgetreten?
+- **caller:** Ja, so vor ein paar Minuten Brustschmerzen.
+- **caller:** Ich kriege auch schlecht Luft.
+- **calltaker:** Haben Sie Probleme mit dem Kreislauf?
+- **caller:** Ne.
+- **calltaker:** Nee, keine Probleme mit dem Kreislauf.
+- **calltaker:** Okay.
+- **calltaker:** Hatten Sie sowas schon mal?
+- **caller:** Ja, ich hatte schon mal sowas mit dem Herz.
+- **calltaker:** Okay.
+- **calltaker:** Hatten Sie schon mal einen Herzinfarkt oder sowas?
+- **calltaker:** Okay.
+- **calltaker:** Nehmen Sie Medikamente?
+- **calltaker:** Was denn?
+- **caller:** Ich glaube, ja.
+- **caller:** Ja.
+- **caller:** Dieses, äh, ASS.
+- **caller:** Und ich glaube, dieses, äh, Rami, Rami.
+- **calltaker:** Ramipriel.
+- **caller:** Ja, genau.
+- **calltaker:** Alles klar.
+- **calltaker:** Herr Werner, ich schicke Ihnen einen Rettungswagen.
+- **caller:** Okay.
+- **calltaker:** Sie bleiben bitte einfach, also machen am besten jetzt schon mal die Tür auf, setzen sich dann hin, bleiben einfach ruhig sitzen.
+- **calltaker:** Und wenn sich irgendwas verändert, dann rufen Sie bei mir nochmal an.
+- **calltaker:** Die Kollegen sind unterwegs zu Ihnen.
+- **calltaker:** Alles klar.
+- **calltaker:** Alles Gute, Herr Werner.
+- **caller:** Gut.
+- **caller:** Danke.
+- **calltaker:** Tschüss.
+- **caller:** Tschüss.

@@ -1,0 +1,69 @@
+# Notruf_17
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst, in welchem Ort ist der Notfall?
+- **caller:** Hallo, hier ist die Frau Müller.
+- **caller:** Hier sitzt eine Frau auf der Straße.
+- **calltaker:** Frau Müller, wo sind Sie denn?
+- **caller:** Ich bin in Merzig.
+- **caller:** Die Straße ist die Fitterstraße.
+- **caller:** Da sitzt eine Frau auf der Straße.
+- **caller:** Ich glaube, die ist schwanger.
+- **calltaker:** Ja.
+- **calltaker:** Wo auf der Fitterstraße befinden Sie sich denn, Frau Müller?
+- **caller:** Moment, ich muss gucken.
+- **caller:** Also wir sind hier auf der Straße.
+- **caller:** Das ist wohl vor dem Haus mit der Nummer 17.
+- **calltaker:** Okay, Haus Nummer 17.
+- **caller:** Ja, also sie müssen, glaube ich, schnell kommen.
+- **calltaker:** Da sitzt eine Frau auf der Straße.
+- **caller:** Ja, die sitzt eine Frau auf der Straße.
+- **caller:** Das ist eine junge Frau und die ist wohl schwanger.
+- **caller:** Und also da ist auch Blut.
+- **caller:** an der Hose und die fasst sich immer an den Bauch und hat wohl starke Schmerzen.
+- **caller:** Und die Frau ist ganz plass.
+- **calltaker:** Okay, sie können mit der Frau sprechen.
+- **calltaker:** Die Frau ist ansprechbar bei Bewusstsein.
+- **caller:** Ja, ja, ich kann mit ihr sprechen, aber sie ist, also ich glaube, sie hat schlimme Angst und ich weiß nicht, sie ist wohl ein bisschen verwirrt.
+- **caller:** Und sie atmet auch schnell.
+- **calltaker:** Wie alt ist die Frau, haben sie gesagt?
+- **caller:** Also es ist eine junge Frau, also ja, so ungefähr 30, ich weiß es nicht genau.
+- **caller:** Aber ich glaube, sie müssen schnell kommen.
+- **caller:** Die hat wirklich schlimme Schmerzen.
+- **calltaker:** Und sie haben gesagt, an der Hose ist Blut.
+- **caller:** Ja, nicht so viel, aber da ist Blut.
+- **caller:** Und sie hat Schweiß auf der Stirn.
+- **caller:** Also ich weiß jetzt nicht, was ich machen soll.
+- **calltaker:** Okay.
+- **calltaker:** Können Sie die Frau ein bisschen beruhigen, ihr zureden?
+- **caller:** Ja, das kann ich bestimmt.
+- **caller:** Das kann ich gut, ja.
+- **calltaker:** Okay.
+- **calltaker:** Atmet die Frau ganz normal?
+- **caller:** Ja, sie atmet ein bisschen schnell, aber also ein bisschen, ein bisschen schnell.
+- **caller:** Hallo, wie heißen Sie denn?
+- **caller:** Sie heißt Elena.
+- **caller:** Ja.
+- **caller:** Aber Sie müssen schnell jemanden schicken, bitte.
+- **calltaker:** Okay.
+- **calltaker:** Ja.
+- **calltaker:** Das ist kein Problem, die Kollegen sind unterwegs.
+- **calltaker:** Ich würde Sie gerade bitten, noch bei der Frau zu bleiben und Sie ein bisschen zu beruhigen, bis die Kollegen dann da sind.
+- **caller:** Gut, was... Ja.
+- **caller:** Ja, das mache ich.
+- **caller:** Ja, das mache ich.
+- **caller:** Wie lange dauert das denn?
+- **calltaker:** Das dauert nicht so lange, so maximal 8 Minuten.
+- **caller:** Acht Minuten, oh Gott, ja.
+- **caller:** Aber ich bleibe hier, ja.
+- **calltaker:** Die Kollegen machen so schnell wie es geht.
+- **caller:** Hier sind auch noch Leute dazugekommen, ja.
+- **caller:** Da sind noch Leute, die helfen uns.
+- **calltaker:** Alles klar.
+- **caller:** Gut, dann, ja.
+- **caller:** Also hoffentlich kommt bald jemand.
+- **calltaker:** Kollegen sind unterwegs.
+- **calltaker:** Dankeschön.
+- **caller:** Ja, danke, danke.
+- **caller:** Tschüss.

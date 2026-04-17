@@ -1,0 +1,47 @@
+- calltaker: Emergency dispatch service, in which town is the emergency?
+- caller: Yes, in Saarbrücken.
+- calltaker: Which street?
+- caller: That is Bahnhofstraße in Saarbrücken.
+- calltaker: Bahnhofstraße, which house number?
+- caller: Um, I can't see the house number right now.
+- caller: It's directly in front of the Primark.
+- calltaker: In front of Primark, okay.
+- calltaker: What happened?
+- caller: Um, there is a man who is unwell.
+- caller: I think he is lying down.
+- caller: He is lying on the street.
+- calltaker: Lang.
+- calltaker: How old is he approximately?
+- caller: Yes.
+- caller: Yes, about 54.
+- calltaker: Approximately 54.
+- calltaker: Do you know Mr. Lang better?
+- caller: Yes, what should I know better?
+- caller: I've seen him often in the city, but I don't really know him properly.
+- calltaker: Okay.
+- calltaker: And is he currently awake and responsive?
+- caller: If you speak to him, yes, but otherwise he is generally asleep.
+- calltaker: Okay, so when you speak to him he responds.
+- calltaker: All right.
+- calltaker: Does he have any breathing problems?
+- caller: No, not that either.
+- calltaker: Good.
+- calltaker: And does he say he has any pain?
+- caller: No, he just says he wants to sleep and he smells very strongly of alcohol.
+- calltaker: Okay.
+- calltaker: Does he drink often?
+- caller: Yes, he is a well-known heavy alcoholic.
+- caller: He had his backpack with a Tetra Pak of wine.
+- calltaker: Okay.
+- calltaker: All right.
+- calltaker: Good, I'll send an ambulance to you.
+- calltaker: They should take a look at him.
+- calltaker: Can you stay with him?
+- caller: Yes.
+- caller: Yes, I can do that.
+- calltaker: Good, if anything changes, call us again, okay?
+- caller: Yes, okay.
+- calltaker: All right.
+- calltaker: Take care.
+- calltaker: Goodbye.
+- caller: Yes, goodbye.

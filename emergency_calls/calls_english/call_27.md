@@ -1,0 +1,40 @@
+- calltaker: Fire Department, emergency call and rescue service.
+- calltaker: Where exactly is the emergency location?
+- caller: Yes, Holbein here, hello.
+- caller: I am in St. Wendel, at my home on Marpinger Street 5.
+- caller: My wife has fallen and... now her head is bleeding and she is not really responding properly.
+- calltaker: Yes, please hold on.
+- calltaker: Marpinger Street, house number 5, the single-family home.
+- caller: Uh, correct, but we are in the garden shed at the back.
+- caller: It's like this: if you go past the driveway... you have to go past the house on the right and then about 100 meters a bit into the garden.
+- caller: And we are now in the garden shed there.
+- calltaker: How old is your wife?
+- caller: Right, yes.
+- caller: My wife somehow tripped and then fell and hit her head on the tabletop and now she is not really responding properly.
+- caller: She is 35.
+- calltaker: 35.
+- calltaker: 35.
+- calltaker: Any known prior illnesses?
+- caller: No, nothing at all.
+- calltaker: Okay.
+- calltaker: Good.
+- calltaker: And she is no longer responding properly?
+- caller: Still a little, but she is a bit slowed.
+- caller: That's why I'm worried, because she's also bleeding from the head.
+- calltaker: Yes.
+- calltaker: Is she breathing?
+- caller: Yes, yes, yes.
+- calltaker: Yes.
+- calltaker: Okay.
+- calltaker: Did she report pain or was she immediately confused/with impaired consciousness?
+- caller: No, she says she has a headache.
+- caller: I can talk to her here now, but she does not respond very well.
+- calltaker: The crew are on their way to you.
+- calltaker: It is possible that someone else may pass by or that you can make yourselves more noticeable so the crew can find you more easily.
+- caller: I'm alone with my wife.
+- caller: I don't really want to leave her alone, but I'll leave the door open and then I'll hear the crew when they come.
+- calltaker: Okay, when the crew arrive they can come to the street briefly.
+- caller: Right, but as I said, they should just drive into the driveway and then they have to walk about 100 meters, then they'll see the garden shed.
+- calltaker: Yes, I have also passed that on to the crew.
+- caller: Great, great, thank you very much.
+- calltaker: Yes, you're welcome.

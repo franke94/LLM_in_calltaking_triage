@@ -1,0 +1,43 @@
+# Notruf_5
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst, in welchem Ort ist der Notfall?
+- **caller:** Ja, Blum, hallo.
+- **caller:** In Eschringen.
+- **calltaker:** In Eschring, in welcher Straße?
+- **caller:** Ist die Gräfenthaler Straße.
+- **calltaker:** Ja, die Hausnummer.
+- **caller:** 54.
+- **caller:** Ja.
+- **calltaker:** 54, das ist ein Einfamilienhaus.
+- **calltaker:** Welcher Name steht denn an der Klinge?
+- **caller:** Blum?
+- **calltaker:** Herr Blum, was ist denn passiert?
+- **caller:** Es geht um meine Frau.
+- **caller:** Die kriegt jetzt, glaube ich, gerade ihr Kind.
+- **calltaker:** In welcher Schwangerschaftswoche ist sie denn?
+- **caller:** Der 34.
+- **caller:** Ja.
+- **calltaker:** Hat sie schon einen Fruchtwasserabgang gehabt?
+- **calltaker:** Aber sie ist normal bei Bewusstsein.
+- **calltaker:** Hat sie Probleme mit der Luft?
+- **caller:** Ja.
+- **caller:** Manchmal häschelt sie halt so ein bisschen.
+- **calltaker:** Ja, okay.
+- **calltaker:** Also hat sie Schmerzen?
+- **calltaker:** Die Wehen wahrscheinlich, ne?
+- **calltaker:** Aber sonst keine Schwankungen.
+- **caller:** Ja, schon.
+- **caller:** Sie schreit mich da schon die ganze Zeit an.
+- **calltaker:** Ja, alles klar.
+- **calltaker:** Ist irgendwas bekannt wegen Risikoschwangerschaft?
+- **caller:** Ja, aufgrund vom Alter ist sie 35.
+- **caller:** Aber ansonsten nichts.
+- **calltaker:** Gut, alles klar.
+- **calltaker:** Gut, ich schicke Ihnen den Rettungswagen zu.
+- **calltaker:** Wenn sich irgendwas verändert, dann rufen Sie bei uns nochmal an.
+- **calltaker:** Alles klar, alles Gute.
+- **calltaker:** Tschüss.
+- **caller:** Mache ich.
+- **caller:** Ja, danke.

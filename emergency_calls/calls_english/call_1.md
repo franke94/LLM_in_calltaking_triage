@@ -1,0 +1,52 @@
+- calltaker: Emergency call, fire brigade and ambulance. In which location is the emergency?
+- caller: Yes, hello, Werner.
+- caller: Saarbrücken, Enzheim, Johannstraße 33.
+- caller: Single-family house.
+- calltaker: At Johannstraße 33.
+- calltaker: Is that a single-family house or an apartment building?
+- calltaker: Single-family house, which floor then?
+- caller: The first.
+- calltaker: Yes, that is the upper floor.
+- calltaker: What happened?
+- caller: I have chest pain.
+- calltaker: Okay, what is your name?
+- caller: Werner.
+- calltaker: Werner.
+- calltaker: So, you are the patient yourself.
+- calltaker: Werner is also the name on the doorbell.
+- calltaker: Mr. Werner, how old are you?
+- caller: Yes.
+- caller: I am 75.
+- calltaker: 75, okay.
+- calltaker: And you have chest pain now.
+- calltaker: Did this start just now?
+- caller: Yes, a few minutes ago chest pain.
+- caller: I'm also having difficulty breathing.
+- calltaker: Do you have any circulatory problems?
+- caller: No.
+- calltaker: No, no circulatory problems.
+- calltaker: Okay.
+- calltaker: Have you had something like this before?
+- caller: Yes, I've had something like this with my heart before.
+- calltaker: Okay.
+- calltaker: Have you ever had a heart attack or something like that?
+- calltaker: Okay.
+- calltaker: Are you taking any medications?
+- calltaker: Which ones?
+- caller: I think so.
+- caller: Yes.
+- caller: This, uh, aspirin (ASA).
+- caller: And I think this, uh, Rami, Rami.
+- calltaker: Ramipril.
+- caller: Yes, exactly.
+- calltaker: All right.
+- calltaker: Mr. Werner, I'm sending you an ambulance.
+- caller: Okay.
+- calltaker: Please just stay where you are — if possible, open the door now, sit down, and remain calm and seated.
+- calltaker: And if anything changes, call me again.
+- calltaker: The colleagues are on their way to you.
+- calltaker: All the best, Mr. Werner.
+- caller: Good.
+- caller: Thank you.
+- calltaker: Goodbye.
+- caller: Goodbye.

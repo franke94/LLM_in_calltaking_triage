@@ -1,0 +1,68 @@
+- calltaker: Fire department emergency line and emergency medical service.
+- calltaker: Exactly where is the emergency?
+- caller: I am in Neunkirchen, at Wellesweiler Street 79, at the very top, the very top, on the fifth floor.
+- calltaker: Street number 79.
+- caller: There is a woman lying here, it’s at the very top, very top, fifth floor, in the stairwell.
+- calltaker: Which floor is that?
+- calltaker: 5.
+- calltaker: 5th floor.
+- caller: In the stairwell a woman is lying, she is lying on the stairs.
+- calltaker: Yes.
+- calltaker: Yes.
+- calltaker: Yes, do you know the woman?
+- caller: No, I don’t know her.
+- caller: I am the cleaner here.
+- caller: I am the cleaner.
+- caller: One floor below, but I saw something there, so I went up.
+- caller: There the woman is lying.
+- caller: I don’t know her.
+- calltaker: Okay.
+- calltaker: Yes, what is wrong with this woman?
+- calltaker: Is she responsive?
+- caller: She feels very cold and she is bleeding from the head.
+- calltaker: She feels very cold.
+- calltaker: Okay, when you speak to her, does she respond?
+- caller: No, she does not respond at all.
+- calltaker: Okay.
+- caller: She also looks very strange.
+- calltaker: Is she breathing?
+- caller: I think she’s not breathing anymore.
+- caller: No, she is not breathing anymore.
+- calltaker: She is not breathing.
+- caller: What should I do now?
+- caller: She is lying on her stomach.
+- calltaker: Okay.
+- calltaker: Good.
+- calltaker: She is lying on her stomach.
+- calltaker: Do you see any blood?
+- caller: On the stair landing.
+- caller: Yes, her face is down, but there is blood.
+- caller: Blood on the face.
+- calltaker: Can you try to roll the woman over so she is lying on her back?
+- caller: She is lying with her face in the...
+- calltaker: Our colleagues are already on their way to you.
+- caller: No, it’s too narrow here.
+- caller: She is lying on the stair landing.
+- calltaker: Yes, can you somehow pull her down or pull her out?
+- caller: I can’t turn her here.
+- caller: No, it’s all very tight here.
+- calltaker: So you don’t feel able to pull her down or move her to create space?
+- caller: On the stair landing there.
+- caller: No.
+- caller: No, no, that won’t work.
+- caller: I can’t do that.
+- calltaker: Okay.
+- calltaker: Good, the colleagues are on their way to you.
+- caller: That’s not possible.
+- calltaker: Yes, please open the door downstairs.
+- caller: Yes.
+- caller: Yes.
+- caller: Yes, I’ll run down quickly.
+- calltaker: Yes?
+- calltaker: Okay.
+- caller: I will then wave on the street.
+- calltaker: Yes, okay.
+- calltaker: Yes, do that.
+- caller: Yes, thank you.
+- calltaker: Yes.
+- calltaker: Yes, goodbye.

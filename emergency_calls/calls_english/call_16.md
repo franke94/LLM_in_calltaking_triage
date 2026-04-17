@@ -1,0 +1,59 @@
+# Emergency_Call_16
+
+## Dialogue
+
+- calltaker: Emergency fire department and ambulance service.
+- caller: In Saarbrücken on Bahnhofstraße, house number — west side, it's across from the Galeria Kaufhof (formerly), yes, exactly.
+- calltaker: In which town is the emergency?
+- calltaker: Saarbrücken, on Bahnhofstraße.
+- calltaker: Which house number?
+- calltaker: And is he out on the street there?
+- calltaker: Okay, what has happened?
+- caller: We just came out of the club at night and wanted to go home now.
+- caller: It's already 3 a.m.
+- caller: And in front of the Galeria Kaufhof there's a man lying in the snow.
+- calltaker: Okay.
+- caller: We can't wake him up.
+- calltaker: Okay.
+- calltaker: So you don't know him?
+- calltaker: How old is the man approximately?
+- caller: No—around 50, I think.
+- calltaker: Approximately 50.
+- calltaker: Okay.
+- calltaker: He's lying there in the snow.
+- calltaker: And you can't wake him at all, even if you shake him or so?
+- caller: No.
+- calltaker: Okay.
+- calltaker: Is he still breathing?
+- caller: No.
+- caller: Well, I've already spoken to him a little bit.
+- caller: Yes, so, it looks like he's still breathing, yes.
+- calltaker: It looks like he is still breathing.
+- caller: Yes, you can see little puffs of breath rising.
+- calltaker: Okay.
+- calltaker: Is he injured in any way?
+- calltaker: Can you see anything?
+- caller: No, you can't see anything.
+- calltaker: You can't see anything.
+- calltaker: Okay, all right.
+- calltaker: Good, then you can put him in the recovery position.
+- caller: Oh, do I have to?
+- calltaker: That would be good, yes.
+- calltaker: Because if he vomits, he could choke.
+- caller: Yes, he doesn't look very clean right now.
+- calltaker: It would be good if you place him in the recovery position.
+- calltaker: Yes, it would still be good if you do that.
+- caller: Okay, if you say so.
+- calltaker: Exactly.
+- calltaker: Can you stay with him until the colleagues arrive?
+- calltaker: They will be there in a few minutes.
+- calltaker: It's important that someone stays with him.
+- caller: Yes, well, if it doesn't take too long, I can... Yes, then I'll wait here.
+- calltaker: No, it won't take long.
+- calltaker: Okay, great.
+- calltaker: If anything changes again, especially if he stops breathing, then call me again, okay?
+- caller: All right.
+- calltaker: All right, then thanks for calling, okay?
+- caller: Yes.
+- calltaker: Goodbye.
+- caller: Goodbye.

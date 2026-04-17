@@ -1,0 +1,47 @@
+# Notruf_4
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr Rettungsdienst, in welchem Ort ist der Notfall?
+- **caller:** Ja, hallo, hallo.
+- **calltaker:** Hallo, wo sind Sie denn?
+- **caller:** Äh, Saarbrücken, Saarbrücken.
+- **calltaker:** In welcher Straße in Saarbrücken?
+- **caller:** Äh, ähm, Europagalerie.
+- **calltaker:** In der Europagalerie, wo in der Europagalerie?
+- **caller:** McDonald's, McDonald's.
+- **calltaker:** Sind Sie in McDonalds drinnen?
+- **caller:** Na, Straße, Straße.
+- **calltaker:** an der Straße vor dem McDonald's.
+- **caller:** Krieg schlecht Luft, Erkältung.
+- **calltaker:** Alles klar.
+- **calltaker:** Wie ist denn Ihr Name?
+- **calltaker:** Was ist denn passiert?
+- **calltaker:** Sie selber kriegen schlecht Luft?
+- **caller:** Ja, ohne Erkältung.
+- **calltaker:** Alles klar.
+- **calltaker:** Seit wann haben Sie die Erkältung?
+- **caller:** Ja, seit einer Woche.
+- **calltaker:** Und jetzt ist es mit der Luft besonders schlecht, oder?
+- **caller:** Nein, seit einer Woche.
+- **calltaker:** Seit einer Woche ist es schon schlecht mit der Luft.
+- **calltaker:** Alles klar.
+- **calltaker:** Wie alt sind Sie denn?
+- **caller:** Ja.
+- **caller:** 36.
+- **caller:** Na?
+- **calltaker:** Waren Sie schon beim Arzt gewesen?
+- **calltaker:** Noch nicht beim Arzt?
+- **calltaker:** Alles klar.
+- **calltaker:** Haben Sie Probleme mit dem Kreislauf aktuell?
+- **caller:** Na?
+- **caller:** Was Kreislauf?
+- **calltaker:** Na, haben Sie irgendwie, ist Ihnen schwindelig oder so?
+- **caller:** Was Schwindel?
+- **calltaker:** Okay.
+- **calltaker:** Haben Sie irgendwo Schmerzen?
+- **calltaker:** Tut irgendwas weh?
+- **caller:** Na, keine Schmerzen.
+- **calltaker:** Alles klar.
+- **calltaker:** Gut, dann schicke ich Ihnen meinen Krankenwagen, der soll sich das Ganze mal angucken.
+- **caller:** Danke.

@@ -1,0 +1,42 @@
+# Notruf_12
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst.
+- **calltaker:** Wo genau ist der Mutt vor Ort?
+- **caller:** Hallo, hier ist der Brücken auf dem Fußballplatz.
+- **calltaker:** Ja, wo genau ist denn Saarbrückener Fußballplatz?
+- **caller:** Auf dem Rastfuhl.
+- **caller:** Wir spielen hier von der ADOK Rastfuhl-Rufshütte.
+- **calltaker:** Sportplatz, Rast.
+- **calltaker:** Ja.
+- **calltaker:** Was ist denn da passiert?
+- **caller:** Alter, Thomas Müller.
+- **caller:** Der wurde gerade richtig, richtig ekelhaft von der gegnerischen Mannschaft weggegrätscht.
+- **calltaker:** Na, wie alt ist denn der Herr Müller?
+- **caller:** Also das muss mindestens eine rote Karte und eine Spielsperre geben.
+- **caller:** Also sowas hatte ich in meiner Trainerkarriere noch nicht erlebt, sage ich Ihnen.
+- **calltaker:** Ja, wie alt ist denn Herr Müller?
+- **caller:** Der Thomas, der ist 16.
+- **calltaker:** 16 Jahre alt.
+- **calltaker:** Okay.
+- **calltaker:** Was ist denn jetzt...
+- **calltaker:** Genau los mit dem Herrn Müller.
+- **calltaker:** Deine Schmerzen.
+- **caller:** Der wurde gerade von der gegnerischen Vier richtig weggegrätscht.
+- **caller:** Er liegt jetzt auf dem Boden, schreit nach seiner Mutter und der Fuß guckt so in die falsche Richtung, wissen Sie?
+- **calltaker:** Was war das in die falsche Richtung?
+- **caller:** Ey, nicht so wie normal.
+- **caller:** Ey, der steht noch rechts ab.
+- **caller:** Also der Schuh ist sowieso, also ich glaube das Sprunggelenk sollte so nicht funktionieren.
+- **calltaker:** Schreibe sie das mal.
+- **calltaker:** Was?
+- **calltaker:** Okay.
+- **calltaker:** Ist der Müller bei Bewusstsein?
+- **caller:** Ja, er schreit wie am Spieß.
+- **calltaker:** Gut.
+- **calltaker:** Hat er Probleme mit dem Kreislauf?
+- **caller:** Nee, im Kreislauf hat er noch nie Probleme.
+- **caller:** Das Spieltier war die 90 Minuten durch.
+- **calltaker:** Okay, gut.
+- **calltaker:** Die Kollegen sind auf dem Weg zu Ihnen, ja?

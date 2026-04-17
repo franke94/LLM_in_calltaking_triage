@@ -1,0 +1,38 @@
+- calltaker: Emergency call, fire department and ambulance service.
+- calltaker: Where exactly is the incident located?
+- caller: Hello, we are at the bridge by the football pitch.
+- calltaker: Yes, where exactly is the Saarbrücken football ground?
+- caller: At Rastpfuhl.
+- caller: We are playing here for ADOK Rastpfuhl–Rufshütte.
+- calltaker: Sports field, Rastpfuhl.
+- calltaker: Yes.
+- calltaker: What has happened there?
+- caller: Man, Thomas Müller.
+- caller: He was just really, really nasty‑ly slide‑tackled by the opposing team.
+- calltaker: How old is Mr. Müller?
+- caller: That should be at least a red card and a suspension.
+- caller: I have never seen anything like that in my coaching career, I tell you.
+- calltaker: Yes, how old is Mr. Müller?
+- caller: Thomas is 16.
+- calltaker: 16 years old.
+- calltaker: Okay.
+- calltaker: What is happening now...
+- calltaker: Exactly what is wrong with Mr. Müller?
+- calltaker: His pain?
+- caller: He was just really badly slide‑tackled by the opposing player.
+- caller: He is lying on the ground now, calling for his mother, and his foot is pointing the wrong way, you know?
+- calltaker: What do you mean by "pointing the wrong way"?
+- caller: Uh, not like normal.
+- caller: Uh, it's turned out to the right.
+- caller: The shoe is messed up anyway, so I think the ankle should not be positioned like that.
+- calltaker: I'll note that down.
+- calltaker: What?
+- calltaker: Okay.
+- calltaker: Is Mr. Müller conscious?
+- caller: Yes, he's screaming at the top of his lungs.
+- calltaker: Good.
+- calltaker: Does he have any circulatory problems?
+- caller: No, he has never had circulatory problems.
+- caller: The player has been playing the full 90 minutes.
+- calltaker: Okay, good.
+- calltaker: Our colleagues are on their way to you, OK?

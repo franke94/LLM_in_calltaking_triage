@@ -1,0 +1,102 @@
+- calltaker: Emergency, fire department and ambulance service.
+- caller: Hello, I'm in Saarbrücken, in Saarbrücken, at Hohenzollernstraße 69.
+- calltaker: In which town is the emergency?
+- calltaker: Hello.
+- calltaker: Where exactly in Saarbrücken?
+- caller: Yes.
+- calltaker: Are you at home?
+- caller: Yes, this is my home.
+- caller: No, no, no, no, no, several families and young people live here.
+- calltaker: Is it a single-family house or an apartment building?
+- calltaker: What is your name?
+- caller: I live here too.
+- caller: My name is, I am Mrs. Schneider.
+- caller: Lieschen Schneider.
+- calltaker: Elisabeth or Lieschen?
+- caller: Lieschen.
+- calltaker: Which floor do you live on?
+- caller: On the third floor.
+- calltaker: That is also on the doorbell nameplate.
+- caller: Yes, my name is on the doorbell nameplate.
+- caller: Lieschen Schneider.
+- calltaker: All right.
+- calltaker: What is the problem?
+- caller: No, it says Hans Schneider there.
+- caller: That was my husband, but he died three years ago.
+- calltaker: All right.
+- caller: I am poisoned.
+- calltaker: You are poisoned?
+- calltaker: How did that happen?
+- caller: Poisoned?
+- caller: Yes, with cyanide.
+- caller: Well, you know, a young man lives in my building.
+- caller: For three weeks.
+- caller: He is a Nazi and he is from the Stasi.
+- calltaker: Yes.
+- caller: And earlier I made myself fried potatoes with fried eggs, but from organic eggs.
+- caller: And he put the cyanide in it.
+- caller: He has been watching me the whole time.
+- caller: And now the cyanide was in my fried potatoes.
+- calltaker: How did the man get into your apartment?
+- caller: I don't know.
+- caller: But he has been watching me the whole time.
+- caller: And now he put the cyanide in my fried potatoes.
+- calltaker: Okay, how old... How old are you?
+- caller: I am 83.
+- calltaker: Any medical pre-existing conditions?
+- caller: Well yes, I've had problems with my intervertebral disc for a long time, for 53 years already.
+- caller: I was still very young when it started.
+- caller: And my female general practitioner said I have diabetes.
+- caller: But yes, the general practitioner, you see, well I don't know.
+- caller: The general practitioner, I don't know.
+- caller: I think she is also with the Stasi.
+- calltaker: Does she want to poison you too?
+- caller: That's why I don't take the tablets.
+- caller: It's too dangerous for me.
+- calltaker: So you are not taking medications.
+- caller: No, no, no, no, no, no, no, no, under no circumstances.
+- caller: So that goes, so no, no.
+- caller: That's the Stasi, you know how it is with the Stasi.
+- calltaker: Yes.
+- calltaker: I will send colleagues to you so they can assess the situation on site and if necessary transport a patient.
+- caller: Yes.
+- caller: Well, um, yes?
+- caller: Yes, yes, yes, yes, that's fine, that's fine, okay.
+- caller: They will ring, right?
+- caller: I will then open the door.
+- calltaker: Yes exactly, they are on their way and they will ring at your door and they will look at the situation.
+- caller: Hans Schneider.
+- caller: So my husband.
+- calltaker: Hans Schneider, right.
+- caller: And he died three years ago.
+- caller: But Hans Schneider.
+- caller: They should ring there.
+- caller: And please ring three short times in succession.
+- caller: Then I'll know that you sent them.
+- caller: Three short rings in succession.
+- calltaker: All right.
+- caller: The Stasi only rings once.
+- caller: The Stasi only rings once.
+- calltaker: All right, the colleagues are on their way.
+- caller: Ring three times.
+- caller: Ring three times.
+- caller: Hans.
+- caller: Hans.
+- caller: Hans Schneider.
+- caller: Yes?
+- caller: Yes.
+- caller: Good.
+- calltaker: Yes.
+- calltaker: Exactly.
+- caller: Good.
+- caller: But they should come quickly.
+- caller: You know, cyanide acts quickly.
+- caller: Cyanide acts quickly.
+- calltaker: Yes.
+- calltaker: Colleagues are on the way.
+- caller: Good.
+- caller: Yes?
+- caller: Good.
+- caller: Good.
+- caller: Thank you.
+- caller: Hans Schneider, don't forget.

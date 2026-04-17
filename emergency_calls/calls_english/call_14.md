@@ -1,0 +1,73 @@
+- **calltaker:** Emergency, fire brigade and ambulance service.
+- **caller:** Hello.
+- **calltaker:** Where exactly is the emergency location?
+- **calltaker:** Hello, where are you?
+- **caller:** Drinking heavily.
+- **calltaker:** Yes, where are you right now?
+- **caller:** We are in front of the Hardbar.
+- **calltaker:** In front of the Hardbar.
+- **calltaker:** In which town is that?
+- **caller:** Salui.
+- **caller:** In the old town.
+- **caller:** Where is it?
+- **calltaker:** Do you know the street?
+- **caller:** It's directly in the old town.
+- **calltaker:** And the bar...
+- **calltaker:** The bar is called Hard Bar, opposite Siebter Himmel.
+- **caller:** It's across from Himmel.
+- **caller:** Siebter Himmel.
+- **calltaker:** What is your name?
+- **caller:** I'm here, Timo.
+- **calltaker:** And your last name?
+- **caller:** Ruffing.
+- **calltaker:** Timo Huffing.
+- **calltaker:** What has happened?
+- **caller:** Klaus, Sepp and I were drinking.
+- **caller:** Klaus is not doing well at all.
+- **calltaker:** Yes, and now?
+- **calltaker:** What is Klaus's last name?
+- **caller:** Schild.
+- **calltaker:** What was that?
+- **caller:** We are all 16.
+- **calltaker:** 16.
+- **calltaker:** Okay.
+- **calltaker:** And what does Klaus have now?
+- **caller:** He's sitting here on the ground and he can't anymore.
+- **calltaker:** He can't anymore because he drank too much?
+- **caller:** Wow, we didn't drink that much.
+- **caller:** It was maybe 16 shots.
+- **calltaker:** Okay.
+- **calltaker:** Did he take anything else or only alcohol?
+- **caller:** No, we only drank.
+- **calltaker:** Okay.
+- **calltaker:** Does he have any pre-existing conditions?
+- **calltaker:** Do you know that?
+- **calltaker:** Is anything known?
+- **calltaker:** Does he have to take medication for anything?
+- **caller:** No.
+- **caller:** No, no, I don't know of any.
+- **calltaker:** Okay, is he still responsive at all or not at all?
+- **caller:** Klaus?
+- **caller:** Klaus?
+- **caller:** Yes, well he responds a little bit.
+- **calltaker:** He still responds a little.
+- **calltaker:** Okay, at least that's something.
+- **calltaker:** Is he breathing normally or does he have breathing problems?
+- **caller:** Earlier he vomited, then he briefly had trouble getting air, but now everything is fine again.
+- **calltaker:** Okay.
+- **calltaker:** Does he have any circulatory problems?
+- **calltaker:** Did he say anything about that?
+- **calltaker:** Or is it just generally that he's too full/drunk?
+- **caller:** Well, I think he's very dizzy, if you know what I mean.
+- **caller:** He can't really walk straight anymore.
+- **calltaker:** Okay, understood.
+- **calltaker:** Right, understood.
+- **calltaker:** Yes, understood.
+- **calltaker:** Okay, I'm sending you an ambulance.
+- **calltaker:** They should take a look at him.
+- **calltaker:** Will you stay with him, okay?
+- **caller:** All right, should we already order a round for the colleagues?
+- **calltaker:** No, better not.
+- **calltaker:** He definitely doesn't need that.
+- **calltaker:** And if anything changes, call me again.
+- **caller:** All right, cheers!

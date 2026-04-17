@@ -1,0 +1,91 @@
+- calltaker: Emergency call, fire department and ambulance.
+- calltaker: Where exactly is the emergency on site?
+- caller: I'm here at my aunt's in Ludweiler on Händelstraße 10.
+- calltaker: Elutweiler.
+- caller: Händelstraße 10 in Ludweiler.
+- calltaker: Händel.
+- caller: Yes, Händelstraße 10 in Ludweiler.
+- calltaker: Is this a single-family house?
+- caller: My name is... Yes, exactly.
+- calltaker: Floor.
+- caller: So we are on the second floor.
+- caller: We are now in the bedroom.
+- calltaker: Upstairs, okay.
+- calltaker: This is the woman, what's her name again?
+- caller: My aunt, that's Wilhelmine Hamburger.
+- calltaker: Hamburger.
+- caller: And my name is Emma Hamburger-Müller, hyphenated.
+- calltaker: Yes, Mrs. Hamburger, how old is she?
+- caller: My aunt is 98 years old.
+- calltaker: 98 years.
+- calltaker: Okay, what happened?
+- caller: So, yes, my aunt has been lying in bed for two weeks, only in bed.
+- caller: And for three days she hasn't eaten anything.
+- caller: And until recently she still spoke with us, but she was saying confused things about her sister.
+- caller: She said she was killed in the war and was talking with her sister.
+- caller: And now she doesn't speak with us anymore.
+- caller: And she is getting more and more floppy and has cold hands.
+- caller: And now she... No, no, no, no, no, no.
+- calltaker: Try addressing Mrs. Hamburger.
+- calltaker: Is she responding?
+- calltaker: Try whatever you can, shake her a bit.
+- caller: She...
+- caller: She is not responding anymore, no, she is not responding.
+- calltaker: Okay.
+- caller: And now she has... Yes, but now she started breathing strangely.
+- calltaker: Is she breathing?
+- calltaker: Yes, please hold the phone right up to her face so I can hear the breathing.
+- caller: It's rattling.
+- calltaker: How is she breathing?
+- caller: Yes, she's breathing with a rattling sound.
+- caller: It's rattling.
+- caller: So I think you must urgently send an emergency doctor, please.
+- calltaker: Mhm, okay.
+- caller: So I urgently need an emergency physician.
+- caller: This does not look good.
+- calltaker: Yes, okay.
+- calltaker: Can you tell me, Mrs. Hamburger is lying here in bed?
+- caller: Yes, yes, she is lying in bed.
+- caller: She has been lying in bed for two weeks already.
+- caller: This looks really not good.
+- calltaker: Okay, good.
+- calltaker: Mhm, okay.
+- calltaker: Are you able to perform resuscitation on Mrs. Hamburger?
+- caller: No, she is breathing.
+- caller: Yes, well, she is breathing.
+- calltaker: Yes, but that sounded to me like agonal gasping.
+- calltaker: Resuscitation would be helpful in that case.
+- caller: Ah, ah, oh, oh, yes, um, um, yes, sure, sure, of course, of course, sure, that...
+- calltaker: Okay, then please pull Mrs. Hamburger out of the bed so she is lying on the floor.
+- caller: Okay, but I'm completely alone, so she'll fall out of the bed, she will fall out of the bed.
+- calltaker: Yes, that doesn't matter.
+- calltaker: It doesn't matter.
+- calltaker: Just pull her onto the floor.
+- calltaker: Yes, lay her on the floor?
+- caller: Yes, yes, yes, okay, yes, now she also hit her head, yes.
+- calltaker: That doesn't matter.
+- caller: Yes.
+- calltaker: Okay.
+- calltaker: Then... Right, you must push.
+- caller: Yes.
+- caller: And, uh, yes, I learned that in the driving license test, yes.
+- caller: I have to push.
+- calltaker: Do you still remember where?
+- caller: Yes, I press.
+- caller: Pardon?
+- calltaker: Do you still remember where?
+- caller: Yes, I know where to press, yes.
+- calltaker: Okay.
+- caller: But, um, now, um, I'm just going to open the door quickly, otherwise no one can get in.
+- calltaker: Yes, do the compressions, yes, then opening the door first is also okay.
+- caller: I'll open it very quickly... Yes.
+- calltaker: The crews have already been alerted, they are on their way to you, yes.
+- caller: Yes, I'm pressing.
+- caller: Yes.
+- caller: The door is open.
+- caller: Yes, I'm starting compressions.
+- calltaker: Yes, okay.
+- calltaker: Okay, the crews are on their way to you, yes.
+- calltaker: Goodbye, bye.
+- caller: Yes, thank you.
+- caller: Bye.

@@ -1,0 +1,54 @@
+# Notruf_2
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst, in welchem Ort ist der Notfall?
+- **caller:** Schwalbach.
+- **calltaker:** In Schwalbach, in welcher Straße?
+- **caller:** Die Rosenstraße.
+- **calltaker:** Welche Hausnummer dort?
+- **caller:** 54, 54.
+- **calltaker:** Ist das ein Einfamilienhaus oder ein Mehrfamilienhaus?
+- **caller:** Das ist ein Mehrfamilienhaus.
+- **calltaker:** In welcher Etage sind sie?
+- **caller:** In der zweiten Etage, im zweiten Obergeschoss.
+- **calltaker:** Das Boot ist übergeschossen.
+- **calltaker:** Welcher Name steht an der Klingel?
+- **caller:** Jung.
+- **calltaker:** Jung.
+- **calltaker:** Und ihr Name ist auch Jung?
+- **caller:** Ja.
+- **calltaker:** Was ist denn passiert, Haym?
+- **caller:** Und zwar ruhig einfach meinen Vater, der hat seit ungefähr einer Stunde, wo der so eine verwaschene Sprache, irgendwie ganz komisch und der guckt auch ganz komisch.
+- **calltaker:** Wie heißt denn Ihr Vater?
+- **caller:** Er ist auch jung.
+- **calltaker:** Wie alt ist der?
+- **caller:** Der ist 64.
+- **calltaker:** 64.
+- **calltaker:** Hat er irgendwas in der Vorgeschichte, in der medizinischen, schon mal einen Schlaganfall gehabt oder sowas in der Richtung?
+- **caller:** Nee, der hat irgendwas mit Zucker und ich glaube an einen Blutdruck.
+- **calltaker:** Und das ist jetzt ungefähr seit einer Stunde.
+- **caller:** Ja, seit einer Stunde.
+- **calltaker:** Ist er normal ansprechbar?
+- **calltaker:** Reagiert er ganz normal, wenn Sie mit ihm sprechen?
+- **caller:** Ja, das schon, aber es sieht komisch aus.
+- **calltaker:** Hat er Probleme mit der Luft?
+- **caller:** Nee, er atmet gut ja ganz normal.
+- **calltaker:** Sagt er, dass er irgendwo Schmerzen hat?
+- **caller:** Vater, hast du Schmerze?
+- **caller:** Er schüttelt meinen Kopf.
+- **calltaker:** Okay, Schmerzen hat er keine.
+- **calltaker:** Und er hat eine verwaschene Sprache, sieht ein bisschen komisch aus.
+- **calltaker:** Haben Sie gesehen, dass irgendwie eine Seite so ein bisschen gelähmt ist oder sowas?
+- **caller:** Ja.
+- **caller:** Ja, jetzt muss ich es sagen.
+- **caller:** Ja, der hat da... Ja, ja, ja, sieht so aus.
+- **calltaker:** Okay.
+- **calltaker:** Gut.
+- **calltaker:** Herr Jung, ich schicke Ihnen einen Rettungswagen.
+- **calltaker:** Die Kollegen kommen direkt zu Ihnen.
+- **calltaker:** Falls sich noch mal irgendwas verändern sollte, dann rufen Sie bei uns noch mal an.
+- **caller:** Okay, alles klar.
+- **caller:** Okay, mach ich.
+- **calltaker:** Alles klar, alles Gute.
+- **caller:** Ja, danke.

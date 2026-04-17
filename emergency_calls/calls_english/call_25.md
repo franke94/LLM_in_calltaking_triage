@@ -1,0 +1,43 @@
+Emergency_Call_25
+
+Dialog
+
+- calltaker: Emergency call — fire department and ambulance service.
+- caller: Yes, Meier here, hello, there is someone lying here who is hardly responding.
+- calltaker: Where exactly is the emergency?
+- caller: In Saarbrücken, right in front of Bahnhofstraße, you know, at the Saarbahn stop?
+- calltaker: Yes, where are you then?
+- calltaker: Yes, what is the name of the Saarbahn stop?
+- caller: I think it's Johanneskirchen.
+- calltaker: Johanneskirche.
+- calltaker: Okay.
+- calltaker: Good, do you know the person?
+- caller: No, no idea.
+- caller: He looks like... it's a man.
+- calltaker: Male or female?
+- caller: And he looks like one of the homeless people who always sit around here.
+- calltaker: How old do you estimate the man to be?
+- calltaker: About 45.
+- caller: I would say around 45, about.
+- caller: Exactly, exactly.
+- calltaker: Is the man currently conscious when you speak to him?
+- caller: No, almost not at all.
+- caller: Well, just a very tiny bit, if you really shake him, but otherwise not at all.
+- calltaker: Does he respond?
+- calltaker: Is he breathing normally?
+- caller: And he has...
+- caller: Yes, he is breathing normally.
+- calltaker: Is he lying on his side or how is he lying at the moment?
+- caller: But he has vomited and is quite pale and so on.
+- caller: So I don't know if he might have taken drugs or alcohol or something.
+- caller: But he definitely has vomited and that's why I found it odd.
+- caller: He's lying on his back, a bit curled up.
+- calltaker: Yes, then please do me a favor and turn him onto his side, preferably into the recovery position, or at least onto his side so that the head is the lowest point
+- calltaker: The lowest point should be so that the vomit can simply flow out.
+- caller: Yes, all right.
+- caller: Yes, I'll do that.
+- caller: Yes, perfect.
+- calltaker: Okay, the crew is already on their way to you, yes?
+- caller: Thank you very much.
+- caller: Goodbye.
+- calltaker: Yes, goodbye.

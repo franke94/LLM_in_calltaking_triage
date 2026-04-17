@@ -1,0 +1,106 @@
+# Notruf_19
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst.
+- **caller:** Hallo, ich bin in Saarbrücken, in Saarbrücken, in der Hohenzollernstraße 69.
+- **calltaker:** In welchem Ort ist der Notfall?
+- **calltaker:** Hallo.
+- **calltaker:** Wo genau in Saarbrücken?
+- **calltaker:** Ja.
+- **calltaker:** Sind Sie bei sich zu Hause?
+- **caller:** Ja, das ist bei mir zu Hause.
+- **caller:** Nein, nein, nein, nein, nein, hier wohnen mehrere Familien und junge Leute.
+- **calltaker:** Ist das ein Einfamilienhaus oder Mehrfamilienhaus?
+- **calltaker:** Wie heißen Sie?
+- **caller:** Ich wohne hier auch.
+- **caller:** Ich heiße, ich bin die Frau Schneider.
+- **caller:** Lieschen Schneider.
+- **calltaker:** Elisabeth oder Lieschen?
+- **caller:** Lieschen.
+- **calltaker:** In welcher Etage wohnen sie?
+- **caller:** In der dritten Etage.
+- **calltaker:** Das steht auch auf dem Klingelschild.
+- **caller:** Ja, mein Name steht auf dem Klingelschild.
+- **caller:** Lieschen Schneider.
+- **calltaker:** Alles klar.
+- **calltaker:** Um was geht es denn?
+- **caller:** Nein, da steht Hans Schneider.
+- **caller:** Das war mein Mann, der ist aber vor drei Jahren gestorben.
+- **calltaker:** Alles klar.
+- **caller:** Ich bin vergiftet.
+- **calltaker:** Sie sind vergiftet?
+- **calltaker:** Wie ist denn das passiert?
+- **caller:** Vergiftet?
+- **caller:** Ja, mit Zyankali.
+- **caller:** Also, wissen Sie, da wohnt ein junger Mann in meinem Haus.
+- **caller:** Seit drei Wochen.
+- **caller:** Das ist ein Nazi und der ist von der Stasi.
+- **calltaker:** Ja.
+- **caller:** Und vorhin habe ich mir Bratkartoffeln gemacht mit Spiegeleier, aber aus Bio-Eiern.
+- **caller:** Und da hat er mir das Zyankali reingemacht.
+- **caller:** Der beobachtet mich schon die ganze Zeit.
+- **caller:** Und jetzt ist das Zyankali in meinen Bratkartoffeln gewesen.
+- **calltaker:** Wie ist denn der Herr in ihre Wohnung gekommen?
+- **caller:** Das weiß ich doch nicht.
+- **caller:** Der beobachtet mich aber schon die ganze Zeit.
+- **caller:** Und jetzt hat er das Zyankali in meine Bratkartoffeln gemacht.
+- **calltaker:** Okay, wie alt... Wie alt sind sie?
+- **caller:** Ich bin 83.
+- **calltaker:** Irgendwelche medizinischen Vorerkrankungen?
+- **caller:** Also ja, ich habe es schon lange mit der Bandscheibe, schon seit 53 Jahren schon.
+- **caller:** Da war ich noch ganz jung, als das angefangen hat.
+- **caller:** Und meine Hausärztin hat gesagt, ich habe Diabetes.
+- **caller:** Aber ja, die Hausärztin, wissen Sie, also ich weiß nicht.
+- **caller:** Die Hausärztin, ich weiß nicht.
+- **caller:** Ich glaube, die ist auch bei der Stasi.
+- **calltaker:** Will sie die auch vergiften?
+- **caller:** Deswegen nehme ich die Tabletten nicht.
+- **caller:** Also das ist mir zu gefährlich.
+- **calltaker:** Also Medikamente nehmen sie keine.
+- **caller:** Nein, nein, nein, nein, nein, nein, nein, nein, auf gar keinen Fall.
+- **caller:** Also das geht, also nein, nein.
+- **caller:** Das ist die Stasi, Sie wissen ja, wie das ist mit der Stasi.
+- **calltaker:** Ja.
+- **calltaker:** Ich würde einmal die Kollegen zu Ihnen schicken, damit sie sich vor Ort betrachten können und dann gegebenenfalls einen Kranken rausfahren.
+- **caller:** Ja.
+- **caller:** Also, ähm, ja?
+- **caller:** Ja, ja, ja, ja, ist gut, ist gut, okay.
+- **caller:** Also die klingeln ja bestimmt.
+- **caller:** Ich mache dann die Tür auf.
+- **calltaker:** Ja genau, die sind auf dem Weg und die werden dann bei Ihnen klingeln und die schauen sich die Sache dann an.
+- **caller:** Hans Schneider.
+- **caller:** Also mein Mann.
+- **calltaker:** Handschneider, genau.
+- **caller:** Und der ist ja vor drei Jahren gestorben.
+- **caller:** Aber Hans Schneider.
+- **caller:** Da sollen sie klingeln.
+- **caller:** Und sie sollen bitte dreimal kurz hintereinander klingeln.
+- **caller:** Dann weiß ich, dass sie die geschickt haben.
+- **caller:** Dreimal kurz hintereinander.
+- **calltaker:** Alles klar.
+- **caller:** Die Stasi klingelt nur einmal.
+- **caller:** Die Stasi klingelt nur einmal.
+- **calltaker:** Alles klar, die Kollegen sind unterwegs.
+- **caller:** Dreimal klingeln.
+- **caller:** Dreimal klingeln.
+- **caller:** Hans.
+- **caller:** Hans.
+- **caller:** Hans Schneider.
+- **caller:** Ja?
+- **caller:** Ja.
+- **caller:** Gut.
+- **calltaker:** Ja.
+- **calltaker:** Genau.
+- **caller:** Gut.
+- **caller:** Aber die sollen schnell kommen.
+- **caller:** Sie wissen ja, Zyankali ist schnell.
+- **caller:** Zyankali ist schnell.
+- **calltaker:** Ja.
+- **calltaker:** Kollegen sind unterwegs.
+- **caller:** Gut.
+- **caller:** Ja?
+- **caller:** Gut.
+- **caller:** Gut.
+- **caller:** Danke.
+- **caller:** Hans Schneider, nicht vergessen.

@@ -1,0 +1,42 @@
+# Notruf_8
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst, an welchem Ort ist der Notfall?
+- **caller:** Ja, Rommesheim.
+- **calltaker:** Ormesheim, wo genau dort?
+- **caller:** Ja, das ist dieses Wochenendhaus.
+- **caller:** Das Hedgethaus Rehwinkel.
+- **caller:** Ach, kommen Sie schnell.
+- **calltaker:** Wie ist Ihr Name?
+- **caller:** Ich bin der Kai.
+- **caller:** Ah.
+- **calltaker:** Was ist passiert?
+- **caller:** Ich bin auf einer Leder gefallen.
+- **caller:** Ich wollte aufs Dach.
+- **caller:** Ich wollte das Dach sauber machen.
+- **caller:** Ich komme so schnell.
+- **caller:** Ich habe Schmerzen.
+- **calltaker:** Wie alt sind sie?
+- **caller:** Das ist doch egal.
+- **caller:** Ich bin mit 20.
+- **caller:** Ich komme so schnell.
+- **calltaker:** Wie hoch war die Leiter?
+- **caller:** Ich weiß nicht.
+- **caller:** Das Dach.
+- **caller:** Irgendwie geht mir das Handy weg.
+- **calltaker:** Die Verbindung ist ganz schlecht.
+- **caller:** Hier ist sie mich. Hier ist sie mich.
+- **calltaker:** Ja, ich hör Sie noch.
+- **caller:** Ja, das Dach ist so 3 Meter oder so.
+- **calltaker:** Und wo haben Sie die Schmerzen?
+- **caller:** Wo haben Sie die Schmerzen?
+- **caller:** Ey, überall.
+- **caller:** Ich bin da auf 100 gefallen.
+- **calltaker:** Wie stark sind die Schmerzen auf einer Skala von 1 bis 10?
+- **caller:** Boah, 15.
+- **calltaker:** Haben Sie sonst irgendwelche Verletzungen oder Blutungen?
+- **caller:** Nee, es tut halt alles weh.
+- **calltaker:** Alles klar, ich schicke die Kollegen vorbei.
+- **caller:** Gut.
+- **caller:** Beeilte sie sich.

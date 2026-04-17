@@ -1,0 +1,27 @@
+- calltaker: Emergency line, fire department and ambulance service. In what location is the emergency?
+- caller: Yes, it's a bridge at the central station.
+- calltaker: What is your name?
+- caller: I'm Kai Uwe.
+- caller: I'm with DB Security.
+- calltaker: Where exactly at the central station?
+- calltaker: On the track/platform or in the concourse?
+- caller: No, platform 1.
+- calltaker: What is the incident?
+- caller: It's a person we found sitting on a bench.
+- caller: They obviously have a stab wound to the neck.
+- caller: At least, that's how it looks.
+- calltaker: Okay.
+- calltaker: Do you have any information about the person?
+- caller: No, I can't say anything.
+- calltaker: Is any perpetrator still present?
+- caller: Well, there are several people, but apparently no perpetrator at the moment.
+- calltaker: Okay, but the person is still sitting upright — are they responsive?
+- caller: Yes, their consciousness is already very impaired.
+- caller: They also clearly have difficulty breathing, up to hardly any breathing.
+- calltaker: Can you control the bleeding?
+- caller: Yes, my colleague is already pressing on it.
+- calltaker: Okay.
+- caller: But it doesn't look good.
+- calltaker: All right.
+- calltaker: I'm dispatching units.
+- caller: Okay.

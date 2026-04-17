@@ -1,0 +1,60 @@
+# Notruf_30
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** Ja, also ich bin in Neunkirchen.
+- **caller:** Schmidt ist mein Name, hallo.
+- **caller:** Aber ich rufe meine Oma an.
+- **caller:** Die Oma, die ist in Saarbrücken.
+- **calltaker:** Ja, in Saarbrücken ist der Notfallort.
+- **caller:** Genau, ja, in Saarbrücken, ja.
+- **calltaker:** Wie ist denn die Straße?
+- **caller:** Eisenbahnstraße ist das.
+- **caller:** Und genau, müsste 24 sein.
+- **calltaker:** Eisenbahnstraße 24.
+- **caller:** Genau.
+- **calltaker:** Ist das ein Einfamilienhaus?
+- **caller:** Und nee, das ist so ein größeres Haus mit mehreren Stockwerken.
+- **calltaker:** Okay.
+- **calltaker:** In welchem Stockwerk befindet sich Ihre Oma?
+- **caller:** Genau.
+- **calltaker:** Ja, und Sie sind der Herr Schmidt?
+- **caller:** Oh, im dritten, im dritten müsste die wohnen, ja.
+- **caller:** Aber da steht auch Schmidt an der Klingel, also das findet man gut.
+- **caller:** Genau.
+- **calltaker:** Genau.
+- **calltaker:** Okay.
+- **calltaker:** Wie alt ist denn die Frau Schmidt?
+- **caller:** Meine Oma, die ist so 80, 82 ist die.
+- **calltaker:** Meine Oma ist 82.
+- **calltaker:** 82.
+- **calltaker:** Okay.
+- **calltaker:** Was ist denn passiert?
+- **caller:** Ich habe vorhin mit ihr telefoniert und sie sagt, es geht ihr überhaupt nicht gut, den ganzen Tag schon.
+- **caller:** Und die hat sich jetzt schon irgendwie fünfmal übergeben und die sagt, also die ist irgendwie ganz schwach und so und sagt, es geht nicht mehr.
+- **calltaker:** Gut, ist in deinem momentanen Bewusstsein
+- **caller:** Und sie hat gesagt, wenn sie sich übergeben hat, dann ist es ganz, ganz dunkel, was da rauskommt.
+- **caller:** Fast schon schwarz.
+- **caller:** Das kann ich mir fast nicht vorstellen.
+- **caller:** Ich habe es ja nicht gesehen, aber das ist das, was sie mir erzählt hat.
+- **caller:** Aber ich selber kann nicht hinfahren.
+- **caller:** Ja, ich habe eben mit ihr telefoniert, ja.
+- **calltaker:** Gut, hat sie Kreislaufbeschwerden?
+- **caller:** Aber wie gesagt, ganz schwach.
+- **caller:** Ja, ich glaube, dass sie schwach einfach vom Kreislauf her auch ist.
+- **calltaker:** Okay.
+- **calltaker:** Hat sie das sogar schon mal gehabt?
+- **caller:** Nee, äh.
+- **calltaker:** Okay.
+- **calltaker:** Gut, die Kollegen sind auf dem Weg zu Ihnen, ja?
+- **caller:** Ja, super, danke.
+- **caller:** Also zu meiner Oma, nicht zu mir, ne?
+- **caller:** Genau, weil ich bin in Neunkirchen.
+- **calltaker:** Ja, das ist schon klar.
+- **calltaker:** Ja, das weiß ich doch.
+- **caller:** Alles klar, danke schön.
+- **caller:** Tschüss.
+- **calltaker:** Ich hau ab.
+- **calltaker:** Tschüss.

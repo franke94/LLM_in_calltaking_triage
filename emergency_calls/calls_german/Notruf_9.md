@@ -1,0 +1,48 @@
+# Notruf_9
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst, wo genau ist der Notfallort?
+- **caller:** In Saarbrücken, hallo?
+- **calltaker:** Ja, wo genau in Saarbrücken?
+- **caller:** In der Heutukstraße.
+- **caller:** 7 Uhr 60.
+- **caller:** Da beim Café Lollo.
+- **calltaker:** Heutukstraße 67, Café Lollo, ist das richtig?
+- **caller:** Ja, also korrekt.
+- **calltaker:** Ja, was ist da neu passiert?
+- **caller:** Wissen Sie, unsere geschätzte Kundin, die Frau Müller, die ist wie jeden Tag hier gekommen, hat ein Stück Kuchen bestellt.
+- **caller:** Diesmal wollte sie was Neues ausprobieren und hatte Nusskuchen gegessen.
+- **caller:** Und jetzt kriegt die ganz schlecht Luft.
+- **calltaker:** Das ist die Frau Müller.
+- **calltaker:** Wie alt ist die Frau Müller?
+- **caller:** Ach, die Frau Müller, die ist schon so lang bei uns.
+- **caller:** Um die 70.
+- **calltaker:** 70, okay.
+- **calltaker:** Hat sie irgendwie Ahnung über die medizinische Vorgeschichte von ihr?
+- **caller:** Nee, da weiß ich nichts zu.
+- **caller:** Wir reden viel, aber über sowas ja nicht.
+- **calltaker:** Okay, gut.
+- **calltaker:** Wenn Sie die Frau Müller ansprechen, reagiert sie doch ganz normal.
+- **caller:** Jo, also die kriegt halt schlecht Luft, aber so sprechen kann sie noch.
+- **calltaker:** Okay, hat sie irgendwie Kreislaufprobleme?
+- **caller:** Sie ist jetzt auch ganz rot im Gesicht.
+- **caller:** Ich vielleicht nicht, also sie sitzt noch vor mir, sie ist jetzt rot im Gesicht.
+- **caller:** Und so sagt sie, sie kann ganz schlecht schlucken.
+- **calltaker:** Ganz schlecht schlucken, okay.
+- **calltaker:** Wann haben die Symptome dann begonnen, beziehungsweise hat sie das Stück Kuchen gegessen?
+- **caller:** Oh, jetzt gerade so für 15 Minuten, also.
+- **caller:** Es kommt eine Hand viel los im Laden, aber das hat nicht mitgeredet.
+- **calltaker:** Seit ca.
+- **calltaker:** 15 Minuten.
+- **caller:** Nee, fünf bis zehn.
+- **caller:** So lange ist es nicht her.
+- **calltaker:** Okay, gut.
+- **calltaker:** Dann klar, bitte bei der Frau Müller.
+- **calltaker:** Die Frau Müller soll sich nicht mehr bewegen.
+- **calltaker:** Soll ganz ruhig sitzen bleiben, so wie es geht.
+- **calltaker:** Beengte Kleidung bitte öffnen.
+- **calltaker:** Die Kollegen sind unterwegs.
+- **calltaker:** Sobald sich irgendwas verändert, direkt nochmal anrufen.
+- **caller:** Alles klar.
+- **caller:** Danke.

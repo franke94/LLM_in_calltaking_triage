@@ -1,0 +1,43 @@
+Emergency_Call_5
+
+Dialog
+
+- calltaker: Fire and ambulance emergency line, in which town is the emergency?
+- caller: Yes, Blum, hello.
+- caller: In Eschringen.
+- calltaker: In Eschring, which street?
+- caller: It's Gräfenthaler Street.
+- calltaker: Yes, the house number?
+- caller: 54.
+- caller: Yes.
+- calltaker: 54, that's a single-family house.
+- calltaker: What name is on the doorbell?
+- caller: Blum?
+- calltaker: Mr. Blum, what happened?
+- caller: It's about my wife.
+- caller: I think she is currently delivering her baby.
+- calltaker: How many weeks' gestation is she?
+- caller: 34 weeks.
+- caller: Yes.
+- calltaker: Has her water broken (rupture of membranes)?
+- calltaker: But she is conscious/alert, correct?
+- calltaker: Does she have any breathing difficulties?
+- caller: Yes.
+- caller: Sometimes she pants a bit.
+- calltaker: Yes, okay.
+- calltaker: So is she in pain?
+- calltaker: Contractions, probably, right?
+- calltaker: But otherwise no other abnormalities?
+- caller: Yes, she does.
+- caller: She has been shouting at me the whole time.
+- calltaker: Yes, all right.
+- calltaker: Is there any known high-risk pregnancy?
+- caller: Yes, due to age—she is 35.
+- caller: But otherwise nothing.
+- calltaker: Good, all right.
+- calltaker: I will send an ambulance to you.
+- calltaker: If anything changes, call us again.
+- calltaker: Okay, take care.
+- calltaker: Goodbye.
+- caller: I will.
+- caller: Yes, thank you.

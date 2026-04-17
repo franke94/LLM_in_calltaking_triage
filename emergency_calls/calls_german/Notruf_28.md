@@ -1,0 +1,73 @@
+# Notruf_28
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** Ja, hier auf der Landstraße zwischen St. Wendel und Winterbach.
+- **caller:** Da ist jemand mit dem Auto in den Graben gefahren.
+- **calltaker:** Okay, wie heißt die Landstraße?
+- **caller:** B 269 könnte das sein.
+- **calltaker:** B269 zwischen St. Wendel Richtung Winterhaar.
+- **caller:** Ich bin mir aber nicht ganz sicher.
+- **caller:** Das ist kurz vor Winterbach.
+- **caller:** Wenn man von St. Wendel auskommt, so 200 Meter vor Winterbach.
+- **calltaker:** Ja, da sagen sie, es ist ein Auto und ein Straßengraben.
+- **caller:** Genau, und da ist einer drin, der reagiert nicht mehr.
+- **caller:** Das ist jetzt aber nicht so, das Auto ist nicht so kaputt.
+- **caller:** Das Auto ist jetzt nicht schlimm demoliert, aber da ist einer drin.
+- **calltaker:** Es ist einfach nur so ein bisschen ein Kram gefahren, aber sitzt da jemand drin?
+- **caller:** Genau.
+- **calltaker:** Okay, wenn sie da an die Scheibe klopfen, reagiert er da?
+- **caller:** Nee, überhaupt nicht.
+- **calltaker:** Oder wenn sie da laut brüllen?
+- **caller:** Nee, überhaupt nicht.
+- **calltaker:** Gar nichts, okay.
+- **caller:** Aber ich hab die Tür auf, aber auch wenn ich an ihm rüttel, reagiert er nicht.
+- **calltaker:** Ja.
+- **calltaker:** Okay.
+- **calltaker:** Atmet er denn normal?
+- **caller:** Ich glaube schon, ja.
+- **caller:** Also der atmet, glaube ich, normal.
+- **caller:** Das ist wie wenn er schlafen würde quasi.
+- **caller:** Man hört sogar so ein bisschen schnarchen.
+- **calltaker:** Ein schnarchendes Atemgeräusch.
+- **calltaker:** Ist der Kopf nach vorne gefallen oder ist der Kopf ganz normal?
+- **caller:** Ja, ja, ja.
+- **caller:** Also der sitzt so zusammengesackt halt.
+- **caller:** Der war angeschnallt und sitzt so zusammengesackt.
+- **calltaker:** Okay.
+- **calltaker:** Sehen Sie, dass er irgendwie mit den Füßenpedalen eingeklemmt ist oder kommen Sie denn da raus?
+- **caller:** Ne, das Auto ist kaum kaputt.
+- **caller:** Das ist nur vorne so ein ganz klein bisschen.
+- **caller:** Aber es haben auch keine Airbags ausgelöst oder so.
+- **caller:** Also es ist nicht schlimm kaputt, würde ich sagen.
+- **calltaker:** Okay.
+- **calltaker:** Gut, die Kollegen sind schon auf dem Weg zu Ihnen.
+- **calltaker:** Können Sie mal den Gefallen tun und versuchen, den Patienten aus dem Auto zu holen, dass er neben dem Auto liegt.
+- **caller:** Ja, versuch ich.
+- **caller:** Da kommt ja auch gerade noch jemand vorbei.
+- **caller:** Da können wir das zu zweit, kriegen wir das bestimmt hin, ja.
+- **caller:** Der hat auch so ein paar Schürfwunden am Kopf und so, aber jetzt nicht, der sieht jetzt nicht so super schlimm verletzt aus.
+- **calltaker:** Ja.
+- **calltaker:** Wenn er auf dem Boden liegt, sagen Sie Bescheid.
+- **caller:** Ja.
+- **caller:** Also wir haben ihn jetzt aus dem Auto rausgezogen und er liegt jetzt auf dem Boden vorm Auto.
+- **calltaker:** Okay, wie geht er jetzt?
+- **caller:** Aber er hat gar nicht reagiert.
+- **calltaker:** Hat sich da eben was geändert?
+- **caller:** Nee, überhaupt nicht.
+- **calltaker:** Okay, was macht seine Atmung?
+- **caller:** Hört sich gut an.
+- **caller:** Hört sich so an, als würde er normal atmen.
+- **calltaker:** Hört sich...
+- **calltaker:** Okay, gut.
+- **calltaker:** Dann tun Sie mal bitte den Gefallen und drehen Sie ein bisschen seitlich, dass der Kopf der niedrigste Punkt vom Körper ist, falls er abbricht.
+- **caller:** Ja, aber so stabile Seitenlage, das habe ich im ersten Hilfekurs gelernt.
+- **calltaker:** Genau.
+- **calltaker:** Genau, richtig.
+- **calltaker:** Oder denken Sie mal bitte ein bisschen zu, Wärmeerhalt und die Kollegen sind unterwegs.
+- **calltaker:** Die zweite Person, die da...
+- **calltaker:** Bei ihnen ist es also ein bisschen die Unfallstelle absichern.
+- **caller:** Ja, haben wir schon.
+- **caller:** Haben wir gemacht, genau.

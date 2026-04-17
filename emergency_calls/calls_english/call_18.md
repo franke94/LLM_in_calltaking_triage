@@ -1,0 +1,60 @@
+- calltaker: Emergency services, fire and ambulance. In which town is the emergency?
+- caller: In Quierschied?
+- caller: We are in Quierschied.
+- calltaker: Where exactly, Quierschied?
+- caller: By the Fischbachhalle.
+- caller: Do you know where the Fischbachhalle is in Quierschied?
+- calltaker: The Fischbachhalle in Quierschied?
+- caller: Yes.
+- caller: It's Egon.
+- calltaker: Yes.
+- caller: Egon Reinhardt.
+- caller: He's a friend of mine.
+- calltaker: Yes.
+- caller: I think he wants to kill himself.
+- caller: He tried to kill himself.
+- calltaker: Okay.
+- caller: So we went behind the hall because he went out and didn't come back.
+- caller: And his arms are bleeding.
+- caller: I think he cut his arms.
+- calltaker: So he has heavily bleeding wounds on both arms or only one arm?
+- caller: Both, both.
+- caller: It's really spurting out.
+- caller: And he's been talking all evening.
+- caller: Like he'd rather be dead and stuff.
+- calltaker: Okay, is he still responsive?
+- caller: Egon?
+- caller: Egon?
+- caller: Yes, he is responding.
+- caller: He responds, but not very well anymore.
+- calltaker: Okay, does he have any other medical pre-existing conditions?
+- caller: What does he have, Egon?
+- caller: He has heart problems.
+- caller: He has a heart condition and I think he also takes blood thinners (anticoagulants).
+- caller: That's obviously bad now.
+- calltaker: Can you somehow stop the bleeding?
+- caller: And... yes, someone else is coming.
+- caller: Can you help me right now?
+- caller: I need something here.
+- caller: We need something here.
+- caller: It's spurting badly here.
+- caller: Yes, we have something.
+- caller: We have some bandages.
+- caller: We're doing something.
+- calltaker: All right, then try to stop the bleeding as best as possible with a pressure dressing.
+- caller: Fischbachhalle, right?
+- calltaker: The crews are already on their way to you.
+- caller: Yes.
+- caller: Raise his arms, right?
+- caller: Raise the arms.
+- calltaker: Yes, keep them as high as possible above the level of the body.
+- caller: Yes.
+- caller: Yes, we're doing it.
+- caller: Egon?
+- caller: Egon?
+- calltaker: And if possible, press on the bleeding.
+- caller: Yes, Egon.
+- caller: Don't fall asleep, Egon.
+- caller: Yes.
+- caller: All right, thanks, thanks.
+- caller: Goodbye.

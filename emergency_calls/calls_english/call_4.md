@@ -1,0 +1,42 @@
+- calltaker: Emergency call — fire department and ambulance service. In which town is the emergency?
+- caller: Yes, hello, hello.
+- calltaker: Hello, where are you?
+- caller: Uh, Saarbrücken, Saarbrücken.
+- calltaker: Which street in Saarbrücken?
+- caller: Uh, um, Europagalerie.
+- calltaker: In the Europagalerie, where in the Europagalerie?
+- caller: McDonald's, McDonald's.
+- calltaker: Are you inside McDonald's?
+- caller: Nah, street, street.
+- calltaker: On the street in front of the McDonald's?
+- caller: I'm having difficulty breathing, a cold.
+- calltaker: All right.
+- calltaker: What is your name?
+- calltaker: What happened?
+- calltaker: You yourself are having difficulty breathing?
+- caller: Yes, without a cold.
+- calltaker: All right.
+- calltaker: Since when have you had the cold?
+- caller: Yes, for one week.
+- calltaker: And now is the breathing particularly bad, or…?
+- caller: No, it has been bad with the breathing for a week.
+- calltaker: All right.
+- calltaker: How old are you?
+- caller: Yes.
+- caller: 36.
+- caller: Eh?
+- calltaker: Have you already been to a doctor?
+- calltaker: Not been to a doctor yet?
+- calltaker: All right.
+- calltaker: Are you currently having any problems with your circulation?
+- caller: Eh?
+- caller: What, circulation?
+- calltaker: I mean, do you feel dizzy or anything like that?
+- caller: What, dizziness?
+- calltaker: Okay.
+- calltaker: Do you have any pain anywhere?
+- calltaker: Does anything hurt?
+- caller: Nah, no pain.
+- calltaker: All right.
+- calltaker: Good, then I will send you an ambulance so they can have a look.
+- caller: Thank you.

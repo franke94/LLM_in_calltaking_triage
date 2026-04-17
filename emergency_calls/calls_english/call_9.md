@@ -1,0 +1,43 @@
+- calltaker: Emergency fire and ambulance service, where exactly is the emergency?
+- caller: In Saarbrücken, hello?
+- calltaker: Yes, where exactly in Saarbrücken?
+- caller: On Heutukstraße.
+- caller: 7 Uhr 60.
+- caller: There by Café Lollo.
+- calltaker: Heutukstraße 67, Café Lollo, is that correct?
+- caller: Yes, that is correct.
+- calltaker: Yes, what has just happened there?
+- caller: You know, our valued customer, Mrs. Müller, who comes here every day, ordered a piece of cake.
+- caller: This time she wanted to try something new and ate nut cake.
+- caller: And now she’s having a lot of difficulty breathing.
+- calltaker: That is Mrs. Müller?
+- calltaker: How old is Mrs. Müller?
+- caller: Ah, Mrs. Müller has been with us for a long time.
+- caller: Around 70.
+- calltaker: 70, okay.
+- calltaker: Do you have any knowledge of her medical history?
+- caller: No, I don’t know anything about that.
+- caller: We talk a lot, but not about things like that.
+- calltaker: Okay, good.
+- calltaker: When you speak to Mrs. Müller, does she respond normally?
+- caller: Yes, she’s having difficulty breathing, but she can still speak.
+- calltaker: Okay, does she have any circulatory problems?
+- caller: She’s also very red in the face now.
+- caller: Maybe not me, I mean she’s still sitting in front of me, she is red in the face now.
+- caller: And she says she has great difficulty swallowing.
+- calltaker: Great difficulty swallowing, okay.
+- calltaker: When did the symptoms begin, or when did she eat the piece of cake?
+- caller: Oh, just now, about 15 minutes ago, I’d say.
+- caller: It’s quite busy in the shop, but that didn’t get involved.
+- calltaker: For about 15 minutes?
+- caller: No, five to ten.
+- caller: It hasn’t been that long.
+- calltaker: Okay, good.
+- calltaker: Right, please with Mrs. Müller:
+- calltaker: Mrs. Müller should not move anymore.
+- calltaker: She should sit very still and remain calm as much as possible.
+- calltaker: Please loosen any tight clothing.
+- calltaker: The crew are on their way.
+- calltaker: If anything changes at all, call back immediately.
+- caller: All right.
+- caller: Thank you.

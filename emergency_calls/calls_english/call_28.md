@@ -1,0 +1,69 @@
+- calltaker: Emergency services, fire and ambulance.
+- calltaker: Where exactly is the emergency location?
+- caller: Yes, on the country road between St. Wendel and Winterbach.
+- caller: Someone drove a car into the ditch.
+- calltaker: Okay, what is the road name/number?
+- caller: It could be the B 269.
+- calltaker: B269 between St. Wendel heading toward Winterhaar.
+- caller: I'm not entirely sure.
+- caller: It's just before Winterbach.
+- caller: If you're coming from St. Wendel, about 200 meters before Winterbach.
+- calltaker: Yes, they say it's a car and a roadside ditch.
+- caller: Exactly, and there's someone in it who is no longer responding.
+- caller: But it's not like the car is very badly damaged.
+- caller: The car isn't severely crushed, but someone is inside.
+- calltaker: It was just a bit of a bump, but is someone sitting inside?
+- caller: Yes.
+- calltaker: Okay, if you knock on the window, does he respond?
+- caller: No, not at all.
+- calltaker: Or if you shout loudly?
+- caller: No, not at all.
+- calltaker: Nothing at all, okay.
+- caller: But I have the door open, and even if I shake him, he doesn't respond.
+- calltaker: Yes.
+- calltaker: Okay.
+- calltaker: Is he breathing normally?
+- caller: I think so, yes.
+- caller: So he is breathing, I think, normally.
+- caller: It's like he's sleeping, basically.
+- caller: You can even hear a little bit of snoring.
+- calltaker: A snoring respiratory sound.
+- calltaker: Is his head hanging forward or is his head in a normal position?
+- caller: Yes, yes, yes.
+- caller: So he's slumped down.
+- caller: He was wearing a seatbelt and is slumped down.
+- calltaker: Okay.
+- calltaker: Do you see that his feet are trapped at the pedals or can he get out?
+- caller: No, the car is barely damaged.
+- caller: It's only a very small amount of damage at the front.
+- caller: And no airbags deployed or anything.
+- caller: So it's not badly damaged, I would say.
+- calltaker: Okay.
+- calltaker: Good, the crews are already on their way to you.
+- calltaker: Could you please do me a favor and try to get the patient out of the car so that he is lying beside the vehicle?
+- caller: Yes, I'll try.
+- caller: There's also someone just passing by now.
+- caller: With the two of us, we can probably manage that, yes.
+- caller: He also has a few abrasions on the head and so on, but he doesn't look severely injured.
+- calltaker: Yes.
+- calltaker: When he is on the ground, tell me.
+- caller: Yes.
+- caller: We've now pulled him out of the car and he is lying on the ground in front of the car.
+- calltaker: Okay, how is he now?
+- caller: But he still didn't react at all.
+- calltaker: Has anything changed?
+- caller: No, not at all.
+- calltaker: Okay, what about his breathing?
+- caller: Sounds fine.
+- caller: Sounds like he's breathing normally.
+- calltaker: Sounds...
+- calltaker: Okay, good.
+- calltaker: Then please do me a favor and roll him slightly onto his side so that his head is the lowest point of the body, in case he vomits.
+- caller: Yes, but I put him in the recovery position — I learned that in a first aid course.
+- calltaker: Exactly.
+- calltaker: Exactly, correct.
+- calltaker: Or please cover him a bit to preserve warmth, and the crews are on their way.
+- calltaker: The second person who is there...
+- calltaker: So for you it's a matter of securing the accident scene a bit.
+- caller: Yes, we already have.
+- caller: We've done that, yes.

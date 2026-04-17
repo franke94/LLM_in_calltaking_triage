@@ -1,0 +1,64 @@
+# Notruf_18
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst, in welchem Ort ist der Notfall?
+- **caller:** In Quierschied?
+- **caller:** Wir sind in Quierschied.
+- **calltaker:** Wo genau ein Queer-Sheet?
+- **caller:** Bei der Fischbachhalle.
+- **caller:** Wissen Sie, wo die Fischbachhalle ist in Quierschied?
+- **calltaker:** Ich fisch fach alle ein Queer-Sheet.
+- **caller:** Ja.
+- **caller:** Und zwar der Egon.
+- **calltaker:** Ja.
+- **caller:** Egon Reinhardt.
+- **caller:** Das ist ein Freund von mir.
+- **calltaker:** Ja.
+- **caller:** Ich glaube, der will sich umbringen.
+- **caller:** Der hat versucht, sich umzubringen.
+- **calltaker:** Okay.
+- **caller:** Also wir sind hier, also ich bin hinter die Halle gegangen, weil der nicht mehr, der ist rausgegangen und ist nicht mehr zurückgekommen.
+- **caller:** Und also die Arme bluten.
+- **caller:** Ich glaube, der hat sich die Arme aufgeschnitten.
+- **calltaker:** Also der hat stark klugende Wunden an beiden Armen oder nur an einem Arm?
+- **caller:** An beiden, an beiden.
+- **caller:** Also das spritzt richtig raus.
+- **caller:** Und der hat schon den ganzen Abend geredet.
+- **caller:** Also am liebsten wäre er tot und sowas.
+- **calltaker:** Okay, ist der noch ansprechbar?
+- **caller:** Egon?
+- **caller:** Egon?
+- **caller:** Ja, also, ja, der reagiert.
+- **caller:** Der reagiert, aber nicht mehr so richtig.
+- **calltaker:** Okay, hat der noch sonstige medizinische Vorerkrankungen?
+- **caller:** Wie hat er mit dem Egon?
+- **caller:** Der hat's am Herz.
+- **caller:** Also, der hat's am Herz und ich glaube, der nimmt auch Blutverdünner.
+- **caller:** Das ist ja jetzt natürlich scheiße.
+- **calltaker:** Können Sie irgendwie die Blutung stoppen?
+- **caller:** Und... Ja, da kommt auch noch jemand.
+- **caller:** Kannst du mir helfen gerade?
+- **caller:** Also, ich brauche hier was.
+- **caller:** Wir brauchen hier was.
+- **caller:** Das spritzt hier richtig.
+- **caller:** Ja, wir haben was.
+- **caller:** Wir haben so Verband.
+- **caller:** Wir machen was.
+- **calltaker:** Alles klar, dann versuchen Sie mit einem Druckverband die Wunde, die Blutung so gut wie es geht zu stopfen.
+- **caller:** Fischbachhalle, ja?
+- **calltaker:** Die Kollegen sind schon unterwegs zu Ihnen.
+- **caller:** Ja.
+- **caller:** Arme hochhalten, oder?
+- **caller:** Arme hochhalten.
+- **calltaker:** Ja, möglichst hoch vom Körper stammen.
+- **caller:** Ja.
+- **caller:** Ja, machen wir.
+- **caller:** Egon?
+- **caller:** Egon?
+- **calltaker:** Und wenn es geht, die Blutung abdrücken.
+- **caller:** Ja, Egon.
+- **caller:** Nicht einschlafen, Egon.
+- **caller:** Ja.
+- **caller:** Alles klar, danke, danke.
+- **caller:** Tschüss.

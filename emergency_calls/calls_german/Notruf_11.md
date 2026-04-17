@@ -1,0 +1,66 @@
+# Notruf_11
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Trennungsdienst.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** Hallo, hier ist die Frau Ritter.
+- **caller:** Ich bin vom Abus- und Lernzentrum in Marpingen.
+- **caller:** Residenz zur alten Mühle ist das hier.
+- **calltaker:** In Marpingen.
+- **calltaker:** Argo, Aldersheim, in Marpingen ist das.
+- **calltaker:** Ich habe es schon gefunden.
+- **calltaker:** Welcher Wohnbereich?
+- **caller:** Zwei.
+- **calltaker:** Und Bereich 2.
+- **calltaker:** Okay, um wen geht es da?
+- **caller:** Es geht um unseren Otto, den haben wir vorhin im Badezimmer gefunden, der ist scheinbar gestürzt.
+- **calltaker:** Okay.
+- **calltaker:** Wenn Sie denn, wie alt ist denn der Otto?
+- **caller:** Der Otto, der ist schon 77 Jahre alt.
+- **calltaker:** 77 Jahre, okay.
+- **calltaker:** Hatten Sie da irgendwas Markantes in der Vorgeschichte?
+- **caller:** Ach, also die Akte, die ist...
+- **caller:** Die ist 4 Kilo, schwer, die ist saudick, der hat Demenz, Diabetes, Herzinfarkt, Bluthochdruck, alles.
+- **calltaker:** Okay, divers vorgekramt.
+- **caller:** Also Emo, alles.
+- **calltaker:** Okay, gut.
+- **calltaker:** Ja.
+- **calltaker:** Okay.
+- **calltaker:** Gut.
+- **calltaker:** Wenn Sie der Otto mal ansprechen, reagiert er ganz normal.
+- **caller:** Ja gut, der Herr Leibniz ist halt dement, also so wie sonst A, würde ich behaupten.
+- **calltaker:** Ja, im Rahmen seiner Qualitäten... Ist das so jetzt wie immer oder ist es deutlich schlechter wie sonst?
+- **caller:** Du, ich komme eigentlich gerade auch aus dem Urlaub, wissen Sie, und das ist auch nicht meine Station, das kann ich jetzt schlecht beurteilen.
+- **calltaker:** Mhm.
+- **calltaker:** Der Otto atmet ja ganz normal.
+- **caller:** Ja, würde ich schon sagen.
+- **calltaker:** Okay.
+- **calltaker:** Hat der Kreislauf Probleme?
+- **caller:** Also er ist gestürzt, aber wieso, weiß ich auch nicht.
+- **caller:** Aber so, er liegt halt immer noch auf dem Boden.
+- **calltaker:** Okay.
+- **calltaker:** Hat der Otto Schmerzen?
+- **caller:** Ich habe mich jetzt nicht getraut, den zu bewegen.
+- **calltaker:** Wenn er da liegt, hat der Schmerzen im Rahmen seiner Demenz oder aufgrund, dass er halt Schmerzen hat?
+- **caller:** Er schreit ziemlich viel, ja.
+- **caller:** Sowohl als auch.
+- **calltaker:** Okay, gut.
+- **calltaker:** Sehen Sie offensichtliche Verletzungen oder Blut?
+- **caller:** Also da ist schon eine kleine Blutlache und er hat eine Kopfplatzwunde.
+- **caller:** Wissen Sie, der nimmt ja auch dieses eine Medikament wegen seinem Bluthochdruck und Herzinfarkt.
+- **calltaker:** Okay, gut.
+- **calltaker:** Das Eliquis bzw.
+- **calltaker:** Ass.
+- **calltaker:** Ja, okay.
+- **caller:** Ja genau, Eliquis, genau.
+- **calltaker:** Gut, die Kollegen sind unterwegs.
+- **calltaker:** Wie war Ihr Name?
+- **caller:** Ich bin die Frau Melanie Ritter.
+- **calltaker:** Frau Ritter.
+- **calltaker:** Okay.
+- **calltaker:** Frau Ritter, die Kollegen sind unterwegs.
+- **calltaker:** Sind wenigen nun bei Ihnen, ne?
+- **caller:** Die Hauschaft beeilt sich.
+- **calltaker:** Ja, sicher doch.
+- **calltaker:** Immer doch.

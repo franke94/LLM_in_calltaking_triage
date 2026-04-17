@@ -1,0 +1,53 @@
+# Notruf_24
+
+## Dialog
+
+- **calltaker:** Feuerwehr, Notruf, Rettungsdienst, wo ist der Notfallort?
+- **caller:** Ja, ich bin hier in Neunkirchen.
+- **caller:** Meine Frau, die hat irgendwie Probleme mit der Luft.
+- **calltaker:** In Neukirchen, sagen sie.
+- **calltaker:** Wie ist die Straße?
+- **caller:** Ja.
+- **caller:** Das ist die Pliesstraße.
+- **caller:** Das ist direkt vorne an der Plies.
+- **calltaker:** Please, Straße.
+- **calltaker:** Hausnummer?
+- **caller:** Äh, 27.
+- **calltaker:** 27, ist das ein Mehrfamilienhaus?
+- **caller:** Ja, genau.
+- **caller:** Das sind so sechs Familienhäuser ist das, ja.
+- **calltaker:** Okay, in welchem Stockwerk befinden Sie sich?
+- **caller:** Im zweiten Obergeschoss sind wir.
+- **calltaker:** Im zweiten Obergeschoss.
+- **calltaker:** Und Sie sind der Herr Berger.
+- **caller:** Berger, Fred Berger ist mein Name.
+- **caller:** Genau.
+- **calltaker:** Und Ihre Frau?
+- **caller:** Genau, meine Frau, die hat so Probleme mit der Luft.
+- **caller:** Die hat, genau, 67 ist die.
+- **calltaker:** Ja, das ist die Frau Berger.
+- **calltaker:** Wie alt ist die?
+- **calltaker:** 67.
+- **calltaker:** Okay, ist doch jemand bekannt bei ihr?
+- **calltaker:** Vorgeschichte, Medika.
+- **caller:** Ja, die hat so, wie heißt das, COPD hat die.
+- **caller:** Ja, genau, das hat die vom vielen Rauchen immer.
+- **calltaker:** Ja.
+- **calltaker:** Und ist die Frau Berger jetzt bei Bewusstsein?
+- **caller:** Ja, ja, ja, die redet ganz normal, ja.
+- **calltaker:** Wenn Sie sie ansprechen, ja.
+- **calltaker:** Okay.
+- **calltaker:** Und was ist jetzt mit der Atmung?
+- **caller:** Ja, sie hat irgendwie, die kriegt immer schwerer Luft.
+- **caller:** Die hat vorhin auch wieder geraucht und das ist immer schlimmer geworden, jetzt schon seit Tagen.
+- **caller:** Ich glaube, die ist auch so ein bisschen erkältet, ist so ein bisschen die Freckatze.
+- **caller:** Und es wird jetzt immer schlimmer mit der Luft, das geht so nicht mehr.
+- **calltaker:** Okay.
+- **calltaker:** Die Kollegen sind unterwegs.
+- **calltaker:** Bekommt sie denn Heimsauerstoff?
+- **caller:** Ne, hat sie noch nicht, soll sie aber kriegen, hat der Hausarzt gesagt.
+- **calltaker:** Ja, okay, gut.
+- **caller:** Aber der hat sie im Moment noch nicht.
+- **calltaker:** Die Kollegen sind auf dem Weg zu Ihnen.
+- **caller:** Ja, perfekt.
+- **caller:** Danke.

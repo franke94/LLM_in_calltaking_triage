@@ -1,0 +1,57 @@
+- calltaker: Emergency, fire and ambulance service.
+- calltaker: Where exactly is the emergency location?
+- caller: Yes, Werner Klein here, hello.
+- caller: I have some kind of strange pain in my chest.
+- calltaker: Hello Mr. Klein, where are you?
+- calltaker: Yes, Mr. Klein, where are you?
+- caller: Uh, I'm in Illingen.
+- calltaker: Which street in Illingen?
+- caller: Oh, it's not on a street.
+- caller: It's at the pond behind the castle in Illingen.
+- caller: I'm out for a walk right now.
+- calltaker: Pond at the...
+- caller: Exactly, it's behind the castle.
+- calltaker: Castle.
+- caller: There's the large parking lot and the pond is behind that.
+- calltaker: Behind the castle.
+- calltaker: Okay.
+- calltaker: What clothing are you wearing?
+- calltaker: Do you have any distinctive jacket or something so they can identify you?
+- caller: No, I'm just wearing a dark gray coat, but I'm sitting here.
+- caller: I can wave as well, they'll find me.
+- calltaker: Yes, okay.
+- calltaker: Good.
+- calltaker: And this is about you?
+- caller: Yes, exactly.
+- calltaker: And your name again?
+- caller: I was out for a walk.
+- caller: My name is Werner Klein.
+- calltaker: Mr. Klein, yes.
+- calltaker: How old are you?
+- caller: Uh, I'm 76.
+- calltaker: 76.
+- calltaker: And now what's going on, Mr. Klein?
+- caller: So I was walking and suddenly I got this kind of pain in my chest and it also radiates a bit into my arms and so on.
+- caller: Yes.
+- caller: And my breathing is not so good either.
+- calltaker: Are you having problems with breathing?
+- caller: A bit, a little short of breath, but mainly because of this pressure feeling on my chest.
+- calltaker: Okay.
+- calltaker: Do you have any circulatory complaints?
+- caller: Hardly.
+- caller: Definitely a little dizzy though.
+- calltaker: Hardly.
+- calltaker: Okay.
+- calltaker: Have you had this before? Or is anything known about your heart?
+- caller: Yes, the doctor says I have a bit of a circulatory disorder of the heart.
+- caller: But I've never had a heart attack or anything like that.
+- caller: Do you think this is a heart attack?
+- calltaker: I can't say that over the phone.
+- calltaker: The colleagues are already on their way to you.
+- caller: Yes, great.
+- calltaker: Okay, as soon as anything changes, tell us immediately.
+- calltaker: Otherwise the colleagues will be with you in a few minutes.
+- caller: I will, yes.
+- caller: Yes, great.
+- caller: Thank you very much.
+- calltaker: You're welcome.

@@ -1,0 +1,73 @@
+# Notruf_22
+
+## Dialog
+
+- **calltaker:** Feuerwehrnotruf und Rettungsdienst.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** Ich bin in Neunkirchen, in der Wellesweiler Straße 79, ganz oben, ganz oben in der fünften Etage.
+- **calltaker:** Straße 79.
+- **caller:** Hier liegt eine Frau, das ist ganz oben, ganz oben, fünfte Etage, im Treppenhaus.
+- **calltaker:** Welches Obergeschoss ist das?
+- **calltaker:** 5.
+- **calltaker:** OG.
+- **caller:** Im Treppenhaus liegt eine Frau, die liegt auf der Treppe.
+- **calltaker:** Ja.
+- **calltaker:** Ja.
+- **calltaker:** Ja, kennen Sie die Frau?
+- **caller:** Nein, ich kenne sie nicht.
+- **caller:** Ich bin hier die Putzfrau.
+- **caller:** Ich bin die Putzfrau.
+- **caller:** Eine Etage tiefer, aber ich habe da was gesehen, da bin ich hochgegangen.
+- **caller:** Da liegt die Frau.
+- **caller:** Ich kenne die nicht.
+- **calltaker:** Okay.
+- **calltaker:** Ja, was ist denn mit dieser Frau?
+- **calltaker:** Reagiert sie?
+- **caller:** Also die fühlt sich ganz kalt an und die blutet am Kopf.
+- **calltaker:** Die fühlt sich ganz kalt an.
+- **calltaker:** Okay, wenn Sie sie ansprechen, reagiert sie?
+- **caller:** Nein, die reagiert überhaupt nicht.
+- **calltaker:** Okay.
+- **caller:** Die sieht auch ganz komisch aus.
+- **calltaker:** Ja, atmet sie denn?
+- **caller:** Also ich glaube, die atmet nicht mehr.
+- **caller:** Nein, die atmet nicht mehr.
+- **calltaker:** Sie atmet nicht.
+- **caller:** Was soll ich jetzt machen?
+- **caller:** Also die liegt auf dem Bauch.
+- **calltaker:** Okay.
+- **calltaker:** Gut.
+- **calltaker:** Die liegt auf dem Bauch.
+- **calltaker:** Sehen Sie da Blut?
+- **caller:** Auf dem Treppenabsatz.
+- **caller:** Ja, also das Gesicht ist unten, aber da ist Blut.
+- **caller:** Das Gesicht im Gesicht.
+- **calltaker:** Okay.
+- **calltaker:** Können Sie einmal die Frau einmal rumdrehen, dass sie auf dem Rücken liegt?
+- **caller:** Also die liegt mit dem Gesicht im...
+- **calltaker:** Die Kollegen sind schon auf dem Weg zu Ihnen.
+- **caller:** Nee, das ist zu eng hier.
+- **caller:** Die liegt auf dem Treppenabsatz.
+- **calltaker:** Ja, können Sie die irgendwie runter oder rausziehen?
+- **caller:** Ich kann hier nicht umdrehen.
+- **caller:** Nee, das ist ja hier ganz eng alles.
+- **calltaker:** Also trauen Sie sich nicht, die runterzuziehen oder so zu ziehen, dass da Platz ist?
+- **caller:** Auf dem Treppenabsatz da.
+- **caller:** Nein.
+- **caller:** Nein, nein, das geht nicht.
+- **caller:** Das kann ich nicht.
+- **calltaker:** Okay.
+- **calltaker:** Gut, die Kollegen sind auf dem Weg zu Ihnen.
+- **caller:** Das geht nicht.
+- **calltaker:** Ja, machen Sie bitte unten die Tür auf.
+- **caller:** Ja.
+- **caller:** Ja.
+- **caller:** Ja, ich renne schnell runter.
+- **calltaker:** Ja?
+- **calltaker:** Okay.
+- **caller:** Ich winke dann an der Straße.
+- **calltaker:** Ja, okay.
+- **calltaker:** Ja, machen sie.
+- **caller:** Ja, danke.
+- **calltaker:** Ja.
+- **calltaker:** Ja, tschüss.

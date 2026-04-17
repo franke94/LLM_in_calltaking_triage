@@ -1,0 +1,66 @@
+# Notruf_10
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst, wo genau ist der Notfallort?
+- **caller:** Hallo, hier in Eppelborn.
+- **caller:** Ich bin hier in der Hans-Groß-Straße 23.
+- **calltaker:** Appleborn, ja, wo genau in Appleborn?
+- **caller:** Sebastian mein Name.
+- **calltaker:** Wo genau, Hans?
+- **caller:** Hans-Groß-Straße 23.
+- **caller:** Ja, das ist so ein Familienhaus.
+- **calltaker:** Hans Großstraße, Haus Nummer 23, ist das ein Einfamilienhaus oder?
+- **calltaker:** Okay.
+- **caller:** Hier leben nur ich und meine Frau.
+- **calltaker:** In welcher Etage befinden Sie sich?
+- **caller:** Ich hab nur eine.
+- **calltaker:** Okay.
+- **calltaker:** Gut.
+- **calltaker:** Ihr Name war nochmal?
+- **caller:** Mein Name ist Sebastian Kreis.
+- **caller:** Es geht um meine Frau.
+- **calltaker:** Kreis.
+- **calltaker:** Okay.
+- **calltaker:** Gut.
+- **calltaker:** Was ist denn mit Ihrer Frau?
+- **caller:** Kreis?
+- **caller:** Ja.
+- **caller:** Wie das Dreieck, nur weniger Ecken.
+- **caller:** Meine Frau, seit dem Aufstehen ist die ganz komisch.
+- **caller:** Also wir sind gestern zusammen schlafen gegangen, da war alles normal, aber jetzt die ist...
+- **caller:** Die redet undeutlich, die ist verwirrt.
+- **calltaker:** Wie alt ist denn Ihre Frau?
+- **caller:** Die...
+- **caller:** 45.
+- **calltaker:** 45.
+- **calltaker:** 42.
+- **caller:** Ach ne, 42 hab ich verrechnet, sorry.
+- **caller:** Sie wissen das ja auch.
+- **calltaker:** Beschreibe das mal kurz, also ganz komisch, inwiefern ist sie ganz normal beim Bewusstsein?
+- **caller:** Geburtsdaten ganz schlimm.
+- **caller:** Sie ist beim Bewusstsein, aber sie ist anders als sonst.
+- **caller:** Ist verwirrt, kann sich nicht genau ausdrücken.
+- **caller:** Das hat vorhin irgendwie das Glas vom Nachttisch runter geschubst, das ist ein bisschen tollpatschig, sag ich mal.
+- **calltaker:** Wenn sie ihre Frau ansprechen, spricht die dann ihr Verwaschen?
+- **calltaker:** Oder hat die einen hängenden Mundwinkel?
+- **caller:** Also es nuschelt so ein bisschen.
+- **caller:** Also Mundwickel fällt mir jetzt nichts auf, aber es nuschelt.
+- **calltaker:** Ja.
+- **calltaker:** Okay.
+- **calltaker:** Gut.
+- **calltaker:** Das Ganze ist jetzt... Seit wann?
+- **caller:** Wir sind jetzt gerade aufgewacht, also so 15 Minuten, weiß ich nicht.
+- **caller:** Wann das jetzt losging, kann ich nicht sagen.
+- **calltaker:** 15 Minuten.
+- **calltaker:** Okay.
+- **calltaker:** Hat Ihre Frau irgendwelche Vorerkrankungen?
+- **calltaker:** Okay, das heißt auch keine Medikamente, die sie regelmäßig einnimmt.
+- **caller:** Nee.
+- **caller:** Nee, keine Medikamente mehr, gar nichts.
+- **calltaker:** Okay, gut.
+- **calltaker:** Die Kollegen sind schon auf dem Weg zu Ihnen.
+- **calltaker:** Machen Sie gleich bitte die Tür auf, dann sind die Kollegen gleich bei Ihnen.
+- **calltaker:** Sobald sich die Situation irgendwie verändert, direkt nochmal Bescheid geben, okay?
+- **caller:** Alles klar, danke.
+- **calltaker:** Ja.

@@ -1,0 +1,62 @@
+# Notruf_26
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** Jo, Werner Klein hier, hallo.
+- **caller:** Ich hab irgendwie so komische Schmerzen auf der Brust.
+- **calltaker:** Hallo Herr Klein, wo sind Sie?
+- **calltaker:** Ja, Herr Klein, wo sind Sie?
+- **caller:** Ähm, in Illingen bin ich.
+- **calltaker:** Die Straße in Illingen.
+- **caller:** Boah, das ist nicht an der Straße.
+- **caller:** Das ist so an dem Teich hinter der Burg in Illingen ist das.
+- **caller:** Ich bin gerade am Spazierengehen.
+- **calltaker:** Teich an der...
+- **caller:** Genau, das ist so hinter der Burg.
+- **calltaker:** Burg.
+- **caller:** Da ist der große Parkplatz und da hinten dran ist der Teich.
+- **calltaker:** Hinter der Burg.
+- **calltaker:** Okay.
+- **calltaker:** Was für Kleidung haben Sie an?
+- **calltaker:** Haben Sie irgendwann eine markante Jacke oder so, dass man sie erkennt?
+- **caller:** Ne, ich habe einfach so einen dunkelgrauen Mantel, aber ich sitze hier.
+- **caller:** Ich kann ja auch winken, die finden mich schon.
+- **calltaker:** Ja, okay.
+- **calltaker:** Gut.
+- **calltaker:** Und es geht um Sie?
+- **caller:** Ja, genau.
+- **calltaker:** Und Sie, Ihr Name war nochmal?
+- **caller:** Ich bin spazieren gegangen.
+- **caller:** Werner Klein ist mein Name.
+- **calltaker:** Herr Klein, ja.
+- **calltaker:** Wie alt sind Sie?
+- **caller:** Äh, 76 bin ich.
+- **calltaker:** 76.
+- **calltaker:** Und jetzt was ist los, Herr Klein?
+- **caller:** Also ich bin spazieren gegangen und plötzlich habe ich so Schmerzen irgendwie auf die Brust gekriegt und das strahlt auch so ein bisschen aus in den Armen und so.
+- **caller:** Genau.
+- **caller:** Ja, und mit der Luft ist auch nicht so gut.
+- **calltaker:** Haben Sie Probleme mit der Atmung?
+- **caller:** Bisschen, bisschen schwer mit der Luft, aber vor allem wegen diesem Druckgefühl auf der Brust.
+- **calltaker:** Okay.
+- **calltaker:** Haben Sie Kreislaufbeschwerden?
+- **caller:** Kaum.
+- **caller:** Ganz klar ein bisschen schwindelig so.
+- **calltaker:** Kaum.
+- **calltaker:** Okay.
+- **calltaker:** Hatten Sie sowas schon mal?
+- **calltaker:** Beziehungsweise ist es am Herbst was bekannt?
+- **caller:** Ja, ich habe so ein bisschen irgendwie Durchblutungsstörungen am Herz, sagt der Arzt.
+- **caller:** Aber ich hatte noch nie einen Herzinfarkt oder sowas.
+- **caller:** Meinen Sie, das ist ein Herzinfarkt?
+- **calltaker:** Das kann ich so am Telefon nicht sagen.
+- **calltaker:** Die Kollegen sind aber schon auf dem Weg zu Ihnen.
+- **caller:** Ja, super.
+- **calltaker:** Okay, sobald sich irgendwas verändert, sagen Sie direkt Bescheid.
+- **calltaker:** Ansonsten sind die Kollegen wenige Minuten bei Ihnen.
+- **caller:** Das mache ich, ja.
+- **caller:** Ja, super.
+- **caller:** Vielen Dank.
+- **calltaker:** Ja, gerne.

@@ -1,0 +1,53 @@
+- calltaker: Fire and rescue emergency line, in which town is the emergency?
+- caller: Yes, Abus in Jorenheim in Ensheim.
+- calltaker: In Ensheim, Saarbrücken-Ensheim.
+- calltaker: Do you have the house number?
+- caller: Yes.
+- caller: Gudrun, what was the house number there again?
+- caller: Ah, number 2.
+- calltaker: Which street?
+- caller: In Hofgarten.
+- calltaker: All right.
+- calltaker: What is your name?
+- caller: I am Mrs. Meier.
+- calltaker: What is this regarding?
+- caller: It is about Mrs. Müller.
+- calltaker: She is a patient with you?
+- caller: Exactly.
+- calltaker: How old is Mrs. Müller?
+- caller: 82.
+- calltaker: Any pre-existing conditions?
+- caller: Yes.
+- caller: Various.
+- caller: She is about 80 years old anyway.
+- calltaker: Yes, okay.
+- calltaker: What happened?
+- caller: We just found her lying in bed.
+- caller: She looks as if she might no longer be alive.
+- calltaker: Can you feel a pulse?
+- calltaker: Have you taken her temperature?
+- caller: No, I cannot.
+- caller: No.
+- caller: Should I measure the temperature?
+- caller: She was still at dinner earlier.
+- caller: There was dinner at 5 p.m., if that helps.
+- calltaker: How long ago was that?
+- caller: It is now 18:50.
+- caller: She had dinner at 5 p.m.
+- calltaker: You haven’t seen her since then?
+- caller: Then she went to her room.
+- caller: Then she went to her room.
+- caller: Just now for the evening medication round.
+- calltaker: And the woman is not breathing.
+- caller: No.
+- calltaker: And pulse, you can’t feel one or are you not able to check?
+- caller: No, as I said, I can’t feel anything.
+- calltaker: Okay.
+- calltaker: Then I will send colleagues to you.
+- caller: Ah, it just occurred to me.
+- caller: One more important thing: we have four MAGN in the residential area.
+- calltaker: Okay.
+- caller: I don’t know if that is important.
+- calltaker: Yes.
+- caller: Good.
+- caller: All right.

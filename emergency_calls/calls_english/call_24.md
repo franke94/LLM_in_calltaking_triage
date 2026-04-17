@@ -1,0 +1,49 @@
+- calltaker: Fire department, emergency number, ambulance service — where is the emergency location?
+- caller: Yes, I'm here in Neunkirchen.
+- caller: My wife, she is having trouble with her breathing.
+- calltaker: In Neunkirchen, you say.
+- calltaker: What is the street?
+- caller: Yes.
+- caller: It's Pliesstraße.
+- caller: It's right in front at the Plies.
+- calltaker: Please, the street?
+- calltaker: House number?
+- caller: Uh, 27.
+- calltaker: 27. Is that an apartment building?
+- caller: Yes, exactly.
+- caller: It's like a six-family building, yes.
+- calltaker: Okay, which floor are you on?
+- caller: We're on the second floor.
+- calltaker: On the second floor.
+- calltaker: And you are Mr. Berger?
+- caller: Berger, Fred Berger is my name.
+- caller: Yes.
+- calltaker: And your wife?
+- caller: Yes, my wife — she's having problems with her breathing.
+- caller: She's, yes, she's 67.
+- calltaker: Yes, that's Mrs. Berger.
+- calltaker: How old is she?
+- caller: 67.
+- calltaker: Okay. Does she have any known conditions?
+- calltaker: Medical history, medications?
+- caller: Yes, she has, what's it called, COPD.
+- caller: Yes, exactly, she has that from smoking a lot over the years.
+- calltaker: Yes.
+- calltaker: And is Mrs. Berger conscious now?
+- caller: Yes, yes, yes, she's talking completely normally, yes.
+- calltaker: When you address her, yes.
+- calltaker: Okay.
+- calltaker: And what is happening with her breathing now?
+- caller: Yes, she is somehow having more and more difficulty getting air.
+- caller: She smoked again a short while ago and it got worse, it's been getting worse for days now.
+- caller: I think she also has a bit of a cold; she's a little congested.
+- caller: And it's getting worse with her breathing, this can't continue.
+- calltaker: Okay.
+- calltaker: The crew are on the way.
+- calltaker: Does she receive home oxygen?
+- caller: No, she doesn't have it yet, but the family doctor said she should get it.
+- calltaker: Yes, okay, good.
+- caller: But he hasn't provided it yet.
+- calltaker: The crew are on the way to you.
+- caller: Yes, perfect.
+- caller: Thank you.

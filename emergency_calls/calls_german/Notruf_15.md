@@ -1,0 +1,69 @@
+# Notruf_15
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr, Rettungsdienst.
+- **calltaker:** In welchem Ort ist der Notfall?
+- **caller:** Saarbrücken, ich wohne in der Albrecht-Dürer-Straße, 23.
+- **caller:** 23, ja.
+- **calltaker:** Albrecht-Dürer, Straße 23.
+- **calltaker:** Ist das ein Einfamilienhaus oder ein Mehrfamilienhaus?
+- **caller:** Das ist ein Einfamilienhaus.
+- **calltaker:** Okay.
+- **calltaker:** Und wie ist Ihr Name?
+- **caller:** Mein Name ist Frank Walter.
+- **calltaker:** Frank Walter.
+- **calltaker:** Das steht auch an der Klingel.
+- **calltaker:** Was ist denn passiert?
+- **caller:** Ich gucke hier gerade wie jeden Samstag.
+- **caller:** Die Bundesliga.
+- **caller:** Jetzt haben die Deppe schon wieder das Tor mitgeschossen.
+- **caller:** Dann habe ich mich ein bisschen aufgeregt.
+- **caller:** Und jetzt bin ich ganz außer Atem.
+- **caller:** Und ich habe so Schmerzen in der Brust.
+- **calltaker:** Okay.
+- **calltaker:** Hatten Sie sowas schon mal?
+- **calltaker:** Haben Sie irgendwelche Vollkrankungen?
+- **caller:** Ne.
+- **caller:** Also ich bin... Das Fußball nimmt nicht immer mit.
+- **caller:** Ich habe immer Bluthochdruck.
+- **caller:** Aber Vorerkrankungen habe ich keine.
+- **calltaker:** Okay.
+- **caller:** Ich habe...
+- **caller:** Vorhin hatte ich mir noch einen Kipp zur Beruhigung angemacht, aber das hilft auch nicht.
+- **calltaker:** Okay, das ist jetzt gerade passiert.
+- **caller:** Ja, so seit der Halbzeit, so eine Viertelstunde jetzt.
+- **calltaker:** Okay, haben Sie Probleme mit der Luft?
+- **calltaker:** Oder kriegen Sie gut Luft?
+- **caller:** Ja, ich kriege nicht gut Luft.
+- **calltaker:** Okay.
+- **calltaker:** Haben Sie Probleme mit dem Kreislauf?
+- **calltaker:** Ist Ihnen schwindelig oder so?
+- **caller:** Ne, das jetzt nicht, aber ich sitze auf der Couch.
+- **calltaker:** Gut, okay.
+- **calltaker:** Und die Schmerzen, die sind im Brustkorb?
+- **caller:** Ja, die ziehen noch so ein bisschen hoch in der Kiefer, aber eher an den Brustkorb.
+- **calltaker:** Okay.
+- **calltaker:** Was für eine Art von Brustschmerzen sind das?
+- **calltaker:** Ist der dauerhaft gleichzeitig oder ist es mehr, wenn Sie sich bewegen zum Beispiel?
+- **caller:** Nee, das ist schon durchgehend.
+- **calltaker:** Okay.
+- **calltaker:** Und ist das so ein stechender Schmerz oder eher drückender Schmerz?
+- **caller:** Nee, so stechend ist das nicht.
+- **caller:** Das ist eher so ein Druckgefühl.
+- **calltaker:** Okay.
+- **calltaker:** Sind Sie alleine zu Hause?
+- **caller:** Ich bin allein zu Hause, ja.
+- **calltaker:** Okay.
+- **calltaker:** Können Sie die Tür noch aufmachen?
+- **caller:** Tja, das krieg ich hin.
+- **calltaker:** Okay, dann machen Sie mal bitte die Tür auf.
+- **calltaker:** Und dann setzen Sie sich einfach ruhig aufs Sofa.
+- **calltaker:** Gucken am besten jetzt kein Fußball weiter.
+- **calltaker:** Die Kollegen sind unterwegs zu Ihnen.
+- **caller:** Alles klar.
+- **calltaker:** Wenn sich irgendwas verändern sollte, dann rufen Sie bei mir nochmal an.
+- **caller:** Alles klar, Dankeschön.
+- **calltaker:** Alles Gute.
+- **calltaker:** Tschüss.
+- **caller:** Tschüss.

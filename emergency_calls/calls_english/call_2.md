@@ -1,0 +1,51 @@
+- calltaker: Emergency, fire department and rescue service, in which town is the emergency?
+- caller: Schwalbach.
+- calltaker: In Schwalbach, which street?
+- caller: Rosenstraße.
+- calltaker: What is the house number there?
+- caller: 54, 54.
+- calltaker: Is that a single-family house or an apartment building?
+- caller: It's an apartment building.
+- calltaker: Which floor are you on?
+- caller: On the second floor, the second upper floor.
+- calltaker: The boot is overshot. (original phrase: "Das Boot ist übergeschossen.")
+- calltaker: What name is on the doorbell?
+- caller: Jung.
+- calltaker: Jung.
+- calltaker: And is your name also Jung?
+- caller: Yes.
+- calltaker: What happened, Haym?
+- caller: Well, basically my father—he's had, for about an hour now, slurred speech, he's acting very strange and he also looks very odd.
+- calltaker: What is your father's name?
+- caller: He is also Jung.
+- calltaker: How old is he?
+- caller: He is 64.
+- calltaker: 64.
+- calltaker: Does he have any past medical history, has he ever had a stroke or anything like that?
+- caller: No, he has something with his blood sugar and I think high blood pressure.
+- calltaker: And this has been going on for about an hour now?
+- caller: Yes, for about an hour.
+- calltaker: Is he normally responsive?
+- calltaker: Does he respond normally when you speak to him?
+- caller: Yes, that he does, but he looks odd.
+- calltaker: Does he have any breathing problems?
+- caller: No, he is breathing well, yes, normally.
+- calltaker: Does he say that he has any pain anywhere?
+- caller: Father, do you have pain?
+- caller: He shakes my head. (original phrase: "Er schüttelt meinen Kopf.")
+- calltaker: Okay, he has no pain.
+- calltaker: And he has slurred speech, looks a bit strange.
+- calltaker: Have you seen that one side is a bit paralysed or anything like that?
+- caller: Yes.
+- caller: Yes.
+- caller: Now I have to say it.
+- caller: Yes, he has there... yes, yes, yes, it looks like that.
+- calltaker: Okay.
+- calltaker: Good.
+- calltaker: Mr. Jung, I am sending you an ambulance.
+- calltaker: The colleagues are coming directly to you.
+- calltaker: If anything changes again, please call us back.
+- caller: Okay, all right.
+- caller: Okay, I will do.
+- calltaker: All right, take care.
+- caller: Yes, thank you.

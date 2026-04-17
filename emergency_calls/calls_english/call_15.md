@@ -1,0 +1,57 @@
+- calltaker: Emergency line, fire department, emergency medical services.
+- calltaker: In which town is the emergency?
+- caller: Saarbrücken, I live at Albrecht‑Dürer‑Straße 23.
+- caller: 23, yes.
+- calltaker: Albrecht‑Dürer Street 23.
+- calltaker: Is that a single‑family house or an apartment building?
+- caller: It’s a single‑family house.
+- calltaker: Okay.
+- calltaker: And what is your name?
+- caller: My name is Frank Walter.
+- calltaker: Frank Walter.
+- calltaker: That’s also on the doorbell.
+- calltaker: What happened?
+- caller: I’m watching, like every Saturday.
+- caller: The Bundesliga.
+- caller: Now they’ve scored again.
+- caller: So I got a bit upset.
+- caller: And now I’m completely out of breath.
+- caller: And I have pain in my chest.
+- calltaker: Okay.
+- calltaker: Have you had something like this before?
+- calltaker: Do you have any chronic illnesses / pre‑existing conditions?
+- caller: No.
+- caller: Well… football doesn’t always agree with me.
+- caller: I always have high blood pressure.
+- caller: But I don’t have any other pre‑existing conditions.
+- calltaker: Okay.
+- caller: I…
+- caller: Earlier I even lit a cigarette to calm down, but that didn’t help either.
+- calltaker: Okay, this started just now?
+- caller: Yes, since halftime, about fifteen minutes now.
+- calltaker: Okay, are you having trouble with your breathing? Or are you getting enough air?
+- caller: Yes, I’m not getting enough air.
+- calltaker: Okay.
+- calltaker: Any problems with circulation? Are you dizzy or anything?
+- caller: No, not that, but I’m sitting on the couch.
+- calltaker: Good, okay.
+- calltaker: And the pain — is it in the chest?
+- caller: Yes, it radiates a little up into the jaw, but is mainly in the chest.
+- calltaker: What kind of chest pain is it? Is it constant, or does it occur more with movement, for example?
+- caller: No, it’s continuous.
+- calltaker: And is it a stabbing pain or more of a pressing pain?
+- caller: No, it’s not stabbing. It’s more of a pressure sensation.
+- calltaker: Are you home alone?
+- caller: I’m home alone, yes.
+- calltaker: Can you still open the door?
+- caller: Yeah, I can manage that.
+- calltaker: Okay, then please open the door.
+- calltaker: And then just sit calmly on the sofa.
+- calltaker: Best not to keep watching football now.
+- calltaker: The team/colleagues are on their way to you.
+- caller: All right.
+- calltaker: If anything changes, call me again.
+- caller: All right, thank you.
+- calltaker: Take care.
+- calltaker: Goodbye.
+- caller: Goodbye.

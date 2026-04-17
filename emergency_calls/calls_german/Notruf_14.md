@@ -1,0 +1,78 @@
+# Notruf_14
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst.
+- **caller:** Hallo.
+- **calltaker:** Wo genau ist der Notfallort?
+- **calltaker:** Hallo, wo sind Sie denn?
+- **caller:** Saufen.
+- **calltaker:** Ja, wo sind Sie denn gerade?
+- **caller:** Wir sind vor der Hardbar.
+- **calltaker:** Vor der Hardbar.
+- **calltaker:** In welcher Stadt ist das denn?
+- **caller:** Salui.
+- **caller:** In der Altstadt.
+- **caller:** Wo ist sie?
+- **calltaker:** Wissen Sie die Straße?
+- **caller:** Die ist direkt in der Altstadt.
+- **calltaker:** Und die Bar...
+- **calltaker:** Die Bar heißt Hard Bar gegenüber siebter Himmel.
+- **caller:** Geh über vom Himmel.
+- **caller:** Siebter Himmel.
+- **calltaker:** Wie ist denn ihr Name?
+- **caller:** Ich bin da, Timo.
+- **calltaker:** Und mit Nachnamen?
+- **caller:** Ruffing.
+- **calltaker:** Timo Huffing.
+- **calltaker:** Was ist denn passiert?
+- **caller:** Klaus, ich und der Sepp wollen ihn trinken.
+- **caller:** Dem Klaus geht es gar nicht gut.
+- **calltaker:** Ja, und jetzt?
+- **calltaker:** Wie heißt der Klaus denn mit Nachnamen?
+- **caller:** Schild.
+- **calltaker:** Wie heißt es der?
+- **caller:** Wir sind alle 16.
+- **calltaker:** 16.
+- **calltaker:** Okay.
+- **calltaker:** Und was hat der Klaus jetzt?
+- **caller:** Der sitzt hier auf dem Boden und der kann nicht mehr.
+- **calltaker:** Der kann nicht mehr, weil er zu viel getrunken hat.
+- **caller:** Boah, wir haben nicht viel getrunken.
+- **caller:** Das waren vielleicht 16 Schnäpse.
+- **calltaker:** Okay.
+- **calltaker:** Hat er sonst irgendwas genommen oder nur Alkohol getrunken?
+- **caller:** Ne, wir haben nur getrunken.
+- **calltaker:** Okay.
+- **calltaker:** Hat er irgendwelche Vorerkrankungen?
+- **calltaker:** Weißt du das?
+- **calltaker:** Ist da irgendwas bekannt?
+- **calltaker:** Muss der Medikamente nehmen wegen irgendwas?
+- **caller:** Ne.
+- **caller:** Ne, ne, davon weiß ich nichts.
+- **calltaker:** Okay, ist der jetzt noch ansprechbar oder gar nicht mehr?
+- **caller:** Klaus?
+- **caller:** Klaus?
+- **caller:** Ja, also so ein bisschen reagiert er.
+- **calltaker:** Ein bisschen reagiert er noch.
+- **calltaker:** Okay, immerhin.
+- **calltaker:** Atmet der normal oder hat der Probleme mit der Atmung?
+- **caller:** Vorhin hat er sich übergeben, da hat er dann kurz nicht so gute Luft gekriegt, aber jetzt ist alles nochmal supi.
+- **calltaker:** Okay.
+- **calltaker:** Hat er irgendwie Kreislaufprobleme?
+- **calltaker:** Hat er dazu was gesagt?
+- **calltaker:** Oder ist es einfach so allgemein, dass er zu voll ist?
+- **caller:** Also ich glaube bei dem dreht sich ganz schön viel im Kreis, wenn sie wissen was meine.
+- **caller:** Also so richtig geradeaus laufen kann er nicht mehr.
+- **calltaker:** Okay, alles klar.
+- **calltaker:** Gut, alles klar.
+- **calltaker:** Ja, alles klar.
+- **calltaker:** Gut, ich schicke euch einen Rettungswagen.
+- **calltaker:** Die sollen sich das Ganze mal angucken.
+- **calltaker:** Bleibt ihr bei ihm, ja?
+- **caller:** Alles klar, sollen wir für die Kollegen schon mal eine Runde bestellen?
+- **calltaker:** Gut.
+- **calltaker:** Nee, besser nicht.
+- **calltaker:** Braucht er nur nicht.
+- **calltaker:** Und wenn sich irgendwas verändert, dann ruft er mich nochmal an.
+- **caller:** Alles klar, Prost!

@@ -1,0 +1,61 @@
+- calltaker: Emergency services, fire department and ambulance — where exactly is the emergency?
+- caller: Hello, here in Eppelborn.
+- caller: I'm at Hans-Groß-Straße 23.
+- calltaker: Eppelborn — yes, where exactly in Eppelborn?
+- caller: Sebastian, that's my name.
+- calltaker: Where exactly, Hans?
+- caller: Hans-Groß-Straße 23.
+- caller: Yes, it's a family house.
+- calltaker: Hans-Groß-Straße, house number 23 — is that a single-family house?
+- calltaker: Okay.
+- caller: It's just my wife and me who live here.
+- calltaker: Which floor are you on?
+- caller: I only have one.
+- calltaker: Okay.
+- calltaker: Good.
+- calltaker: Your name again?
+- caller: My name is Sebastian Kreis.
+- caller: It's about my wife.
+- calltaker: Kreis.
+- calltaker: Okay.
+- calltaker: Good.
+- calltaker: What is happening with your wife?
+- caller: Kreis?
+- caller: Yes.
+- caller: Like the circle, just fewer corners than a triangle.
+- caller: My wife — since getting up she's been very strange.
+- caller: We went to bed together last night and everything was normal then, but now she...
+- caller: She speaks indistinctly, she is confused.
+- calltaker: How old is your wife?
+- caller: She is... 45.
+- calltaker: 45.
+- calltaker: 42.
+- caller: Oh no, 42 — I miscalculated, sorry.
+- caller: You know that, too.
+- calltaker: Describe it briefly — is she otherwise conscious?
+- caller: Her speech is really poor.
+- caller: She is conscious, but she is different than usual.
+- caller: She is confused and cannot express herself clearly.
+- caller: Earlier she somehow knocked the glass off the bedside table — she's a bit clumsy, I would say.
+- calltaker: When you address your wife, does she speak slurred?
+- calltaker: Or does she have a drooping corner of the mouth?
+- caller: She kind of mumbles a bit.
+- caller: I don't notice any drooping of the mouth corner, but she mumbles.
+- calltaker: Yes.
+- calltaker: Okay.
+- calltaker: Good.
+- calltaker: How long has this been going on?
+- caller: We just woke up, so about 15 minutes, I don't know.
+- caller: I can't say exactly when it started.
+- calltaker: 15 minutes.
+- calltaker: Okay.
+- calltaker: Does your wife have any pre-existing conditions?
+- calltaker: Any regular medications she takes?
+- caller: No.
+- caller: No, no medications at all.
+- calltaker: Okay, good.
+- calltaker: Colleagues are already on their way to you.
+- calltaker: Please open the door when they arrive so they can get to you quickly.
+- calltaker: If the situation changes at all, let us know immediately, okay?
+- caller: All right, thanks.
+- calltaker: Yes.

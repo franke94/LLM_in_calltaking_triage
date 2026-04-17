@@ -1,0 +1,60 @@
+# Notruf_16
+
+## Dialog
+
+- **calltaker:** Notruffeuerwehr und Rettungsdienst.
+- **caller:** in Saarbrücken in der Bahnhofstraße Hausnummer, Westschnitt, das hier gehe über vom Galeria Kaufhof ehemals ja genau
+- **calltaker:** In welchem Ort ist der Notfall?
+- **calltaker:** Saarbrück in die Bahnhofstraße.
+- **calltaker:** In welcher Hausnummer?
+- **calltaker:** Und dort auf der Straße?
+- **calltaker:** Okay, was ist denn passiert?
+- **caller:** Wir sind gerade hier nachts aus dem Club raus und wollten jetzt nach Hause gehen.
+- **caller:** Ist ja jetzt schon 3 Uhr.
+- **caller:** Und hier vor der Galleria Kaufhof liegt ein Mann im Schnee.
+- **calltaker:** Okay.
+- **caller:** Den kribbern nicht wach.
+- **calltaker:** Okay.
+- **calltaker:** Das heißt, sie kennen den auch nicht.
+- **calltaker:** Wie alt ist der Mann denn ungefähr?
+- **caller:** Nee.
+- **caller:** So um die 50, denke ich.
+- **calltaker:** Ungefähr 50.
+- **calltaker:** Okay.
+- **calltaker:** Der liegt dort im Schnee.
+- **calltaker:** Und sie kriegen den überhaupt nicht wach, auch wenn sie an ihm rütteln oder so.
+- **caller:** Nee.
+- **calltaker:** Okay.
+- **calltaker:** Atmet der noch?
+- **caller:** Nee.
+- **caller:** Also, ich hab ihn jetzt schon ein bisschen angesprochen.
+- **caller:** Ja, also, es sieht so aus, als würde er noch atmen, ja.
+- **calltaker:** Sieht so aus, als atmet er noch.
+- **caller:** Ja, du siehst so Wölkchen aufsteigen.
+- **calltaker:** Okay.
+- **calltaker:** Ist er irgendwie verletzt oder so?
+- **calltaker:** Sieht man irgendwas?
+- **caller:** Nee, da sieht man jetzt nix.
+- **calltaker:** Sieht man nix.
+- **calltaker:** Okay, alles klar.
+- **calltaker:** Gut, dann können sie ihn in die stabile Seitenlage legen.
+- **caller:** Oh, muss ich?
+- **calltaker:** Das wäre schon gut, ja.
+- **calltaker:** Weil wenn er nämlich erbricht, dann kann es sein, dass er erstickt.
+- **caller:** Ja, der sieht jetzt nicht so sauber aus.
+- **calltaker:** Es wäre gut, wenn sie ihn in die stabile Seitenlage legen.
+- **calltaker:** Ja, es wäre trotzdem gut, wenn sie das machen.
+- **caller:** Okay, wenn Sie das sagen.
+- **calltaker:** Genau.
+- **calltaker:** Können Sie bei ihm bleiben, bis die Kollegen da sind?
+- **calltaker:** Die sind in wenigen Minuten da.
+- **calltaker:** Es wäre wichtig, wenn jemand dabei bleibt.
+- **caller:** Ja, also wenn das nicht so lang dauert, dann kann ich noch eine... Ja, dann warte ich hier noch.
+- **calltaker:** Nein, das dauert nicht lang.
+- **calltaker:** Okay, super.
+- **calltaker:** Wenn sich nochmal irgendwas verändern sollte, also gerade auch, wenn er aufhört zu atmen, dann rufen Sie bei mir nochmal an, ja?
+- **caller:** Alles klar.
+- **calltaker:** Alles klar, dann danke fürs Anrufen, ja?
+- **caller:** Ja.
+- **calltaker:** Tschüss.
+- **caller:** Tschüss.

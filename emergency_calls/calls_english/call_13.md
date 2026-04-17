@@ -1,0 +1,43 @@
+- calltaker: Emergency dispatch, fire and rescue.
+- caller: Hello, Julian Oellig from the Steel factory.
+- calltaker: Exactly where is the incident?
+- caller: We need an NEF.
+- calltaker: Yes, Steel Factory.
+- calltaker: Which gate should it approach?
+- caller: Approach via Gate 4, Street 31, then we will direct you from there.
+- calltaker: Gate 4.
+- calltaker: Good, okay.
+- calltaker: And you are Mr. Müller, you said?
+- caller: No, Oellich.
+- calltaker: Pardon?
+- caller: Oellich.
+- calltaker: Bellig.
+- caller: Oellich.
+- caller: O-E. We had a product release at the steelworks and an employee got "Rohreisen", splashes of "Rohreisen" in his face.
+- calltaker: Bellig.
+- calltaker: Okay.
+- calltaker: What happened there exactly?
+- caller: Our ambulance (RTW) is on site and has now requested an NEF.
+- calltaker: Okay.
+- calltaker: Do you know the patient's name?
+- caller: That's Christian Friedrichs, 33 years old.
+- calltaker: Friedrich, 33 years old.
+- calltaker: Okay.
+- calltaker: Is he conscious?
+- calltaker: Any problems with breathing?
+- caller: Yes.
+- caller: I can tell you that now.
+- caller: He is in care with our ambulance.
+- calltaker: Mhm.
+- calltaker: And no known circulatory problems, right?
+- caller: I don't know that.
+- calltaker: Any pain?
+- caller: Definitely.
+- calltaker: Okay.
+- calltaker: Did this just happen?
+- caller: Yes, exactly.
+- caller: The alarm was about five minutes ago.
+- calltaker: Okay.
+- calltaker: The emergency physician is then on the way.
+
+(Notes: NEF = emergency physician vehicle; RTW = ambulance. The caller used the term "Rohreisen" when describing the contaminant/splash; this is rendered as spoken.)

@@ -1,0 +1,69 @@
+# Notruf_23
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst, wo genau ist der Notfallort?
+- **caller:** Hallo, hier ist die Frau Lieber nicht.
+- **caller:** Wir wohnen in Plieskastel in der Zweibrücker Straße 9.
+- **caller:** Lieber nicht.
+- **caller:** Lieber mich. Lieber mich Chantal heiße ich.
+- **calltaker:** Please Castle und die Straße heißt nochmal wie?
+- **caller:** Und es... Zweibrücker Straße 9 in Plieskastel.
+- **caller:** Es geht um meinen Mann, der Hans.
+- **calltaker:** Ja.
+- **caller:** Der Hans.
+- **caller:** Also, wissen Sie, der hat...
+- **caller:** Ich weiß auch nicht.
+- **caller:** Also der hat plötzlich angefangen, wirres Zeug zu reden.
+- **caller:** Der hat auf einmal nicht mehr gewusst, wo er ist.
+- **calltaker:** Ja.
+- **calltaker:** Wie alt ist denn Herr Jermann?
+- **caller:** Und dann hat er... Also der ist 48.
+- **calltaker:** 48 Jahre alt.
+- **calltaker:** Okay, ist denn irgendwas an Feuerkranken bekannt bei ihm?
+- **caller:** Also der hatte vor kurzem... Der ist vor einer Woche... Nee, vor drei Tagen ist er aus dem Krankenhaus zurückgekommen.
+- **caller:** Der hat eine neue Herzklappe bekommen.
+- **caller:** Und...
+- **caller:** Also jetzt hat er mir gesagt, also der wusste nicht mehr, wo er ist.
+- **caller:** Und dann hat er mir gesagt, er geht jetzt ins Bett schlafen, aber es ist doch erst Mittag.
+- **calltaker:** Okay.
+- **caller:** Und da habe ich gesagt, er soll mal hier auf der Couch sitzen bleiben, er könnte jetzt noch nicht schlafen gehen.
+- **caller:** Und auf einmal hat er Käfer auf seiner Wolldecke gesehen.
+- **caller:** Und er zittert und er hat Angst.
+- **caller:** Und oh Gott, jetzt erbricht er sich auch noch.
+- **caller:** Oh je, jetzt erbricht er sich.
+- **calltaker:** Okay.
+- **calltaker:** Aber der Herr Lieberlich ist bei Brustsein.
+- **caller:** Was mache ich denn jetzt?
+- **calltaker:** Ja oder nein?
+- **calltaker:** Atemmethode auch normal?
+- **caller:** Ja, ja, ja, ja.
+- **caller:** Der ist beim Bewusstsein, aber... Ja, der hat das nochmal.
+- **calltaker:** Hat der Kreislauf Probleme?
+- **caller:** Was?
+- **calltaker:** Hat der Kreislauf Probleme?
+- **caller:** Kreislauf?
+- **caller:** Keine Ahnung.
+- **calltaker:** Hat er denn momentan Schmerzen?
+- **caller:** Weiß ich nicht.
+- **caller:** Nö, Schmerzen hat der nicht.
+- **caller:** Der kriegt ja auch Medikamente gegen die Schmerzen.
+- **calltaker:** Was für Medikamente bekommt er denn?
+- **caller:** Oh.
+- **caller:** Was kriegt man denn da?
+- **caller:** Keine Ahnung.
+- **caller:** Weiß ich nicht.
+- **caller:** Müsste ich nachgucken, wie das Zeug heißt.
+- **calltaker:** Und sie sagen, der redet jetzt ganz leeres Zeug.
+- **caller:** Ja, also der hat nicht gewusst, wo er ist.
+- **caller:** Der hat noch gedacht, er wäre im Krankenhaus.
+- **caller:** Aber er ist jetzt schon daheim.
+- **caller:** Also seit drei Tagen.
+- **calltaker:** Okay, die Kollegen sind unterwegs zu Ihnen, ja?
+- **caller:** Ja, danke schön.
+- **caller:** Dankeschön.
+- **caller:** Ich mache die Tür auf.
+- **calltaker:** Ja, tschüss.
+- **calltaker:** Ja, gerne.
+- **caller:** Tschüss.
+- **calltaker:** Ja, tschüss.

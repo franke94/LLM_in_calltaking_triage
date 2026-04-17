@@ -1,0 +1,57 @@
+# Notruf_6
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst, in welchem Ort ist der Notfall?
+- **caller:** Ja, Abus in Jorenheim in Ensheim.
+- **calltaker:** In Ensheim, Saarbrücken-Ensheim.
+- **calltaker:** Haben Sie da die Hausnummer?
+- **caller:** Ja.
+- **caller:** Gudrun, was für Hausnummer ist denn das da nochmal?
+- **caller:** Ah, die 2.
+- **calltaker:** In die Straße?
+- **caller:** Im Hofgarten.
+- **calltaker:** Alles klar.
+- **calltaker:** Wie heißen Sie?
+- **caller:** Ich bin die Frau Meier.
+- **calltaker:** Um was geht es denn?
+- **caller:** Es geht um die Frau Müller.
+- **calltaker:** Die ist Patientin bei Ihnen.
+- **caller:** Genau.
+- **calltaker:** Wie alt ist denn die Frau Müller?
+- **caller:** 82.
+- **calltaker:** Wollen wir noch irgendwelche Vorerkrankungen?
+- **caller:** Ja.
+- **caller:** Diverse.
+- **caller:** Ist halt so 80 Jahre alt.
+- **calltaker:** Ja, okay.
+- **calltaker:** Was ist denn passiert?
+- **caller:** Die haben wir ja gerade im Bett liegend vorgefunden.
+- **caller:** Die sieht so aus, als ob die nicht mehr leben würde.
+- **calltaker:** Können Sie den Puls tasten?
+- **calltaker:** Haben Sie mal Temperatur gemessen?
+- **caller:** Nein, kann ich nicht.
+- **caller:** Nein.
+- **caller:** Soll ich nicht die Temperatur messen?
+- **caller:** Die war vorhin noch beim Abendessen.
+- **caller:** Um 17 Uhr gab es Abendessen, wenn ihr das weiterhilft.
+- **calltaker:** Wie lange ist das jetzt her?
+- **caller:** Jetzt sind es 18.50 Uhr.
+- **caller:** Um 17 Uhr hat sie noch Abend gegessen.
+- **calltaker:** Seitdem haben sie die aber auch nicht mehr gesehen.
+- **caller:** Dann ist sie auf ihr Zimmer.
+- **caller:** Dann ist sie auf ihr Zimmer.
+- **caller:** Jetzt gerade durch für die Abendmedikation.
+- **calltaker:** Und die Frau atmet nicht.
+- **caller:** Nö.
+- **calltaker:** Und Puls, können sie keinen tasten oder sind sie nicht in der Lage dazu?
+- **caller:** Nö, wie gesagt, ich kann doch nichts tasten.
+- **calltaker:** Okay.
+- **calltaker:** Dann schicke ich die Kollegen vorbei.
+- **caller:** Ah, das fällt mir gerade auf.
+- **caller:** Noch wichtig, wir haben vier MAGN im Wohnbereich.
+- **calltaker:** Okay.
+- **caller:** Ich weiß nicht, ob das wichtig ist.
+- **calltaker:** Ja.
+- **caller:** Gut.
+- **caller:** Alles klar.

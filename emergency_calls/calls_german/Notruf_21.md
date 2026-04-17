@@ -1,0 +1,95 @@
+# Notruf_21
+
+## Dialog
+
+- **calltaker:** Notruf, Feuerwehr und Rettungsdienst.
+- **calltaker:** Wo genau ist der Notruf vor Ort?
+- **caller:** Ich bin hier bei meiner Tante in Ludweiler in der Händelstraße 10.
+- **calltaker:** Elutweiler.
+- **caller:** Händelstraße 10 in Ludweiler.
+- **calltaker:** Händel.
+- **caller:** Ja, Händelstraße 10 in Ludweiler.
+- **calltaker:** Ist das ein Einfamilienhaus?
+- **caller:** Mein Name ist... Ja, genau.
+- **calltaker:** Etage.
+- **caller:** Also wir sind in der zweiten Etage.
+- **caller:** Wir sind jetzt im Schlafzimmer.
+- **calltaker:** Obergeschoss, okay.
+- **calltaker:** Das ist die Frau, wie geht's doch?
+- **caller:** Meine Tante, das ist die Wilhelmine Hamburger.
+- **calltaker:** Hamburger.
+- **caller:** Und mein Name ist Emma Hamburger-Müller, mit Binnenstrich.
+- **calltaker:** Ja, die Frau Hamburger, wie alt ist die?
+- **caller:** Meine Tante ist 98 Jahre.
+- **calltaker:** 98 Jahre.
+- **calltaker:** Okay, was ist denn passiert?
+- **caller:** Also, ja, meine Tante, die liegt seit zwei Wochen im Bett, nur noch im Bett.
+- **caller:** Und seit drei Tagen isst sie nichts mehr.
+- **caller:** Und also bis vor kurzem hat sie noch mit uns gesprochen, aber sie hat wirres Zeug erzählt von ihrer Schwester.
+- **caller:** Die ist im Krieg ums Leben gekommen und hat mit ihrer Schwester gesprochen.
+- **caller:** Und also jetzt redet sie auch nicht mehr mit uns.
+- **caller:** Und also sie wird immer plasser und hat kalte Hände.
+- **caller:** Und jetzt hat sie... Nein, nein, nein, nein, nein, nein.
+- **calltaker:** Frau Hamburger ansprechen.
+- **calltaker:** Reagiert sie da?
+- **calltaker:** Also egal wie, rütteln Sie mal.
+- **caller:** Sie...
+- **caller:** Sie reagiert nicht mehr, nein, sie reagiert nicht.
+- **calltaker:** Okay.
+- **caller:** Und jetzt hat sie... Ja, aber sie hat jetzt so komisch angefangen zu atmen.
+- **calltaker:** Atmet sie denn?
+- **calltaker:** Ja, halten Sie mal bitte das Telefon direkt an ihr Gesicht, dass ich mal die Atmung hören kann.
+- **caller:** Das rasselt.
+- **calltaker:** Wie atmet sie denn?
+- **caller:** Ja, sie atmet so rasselnd.
+- **caller:** Es rasselt.
+- **caller:** Also ich glaube, Sie müssen bitte umgehend einen Notarzt schicken, bitte.
+- **calltaker:** Mhm, okay.
+- **caller:** Also umgehend brauche ich einen Notarzt.
+- **caller:** Das sieht nicht gut aus.
+- **calltaker:** Ja, okay.
+- **calltaker:** Trauen Sie sich denn, die Frau Hamburger liegt hier im Bett?
+- **caller:** Ja, ja, die liegt im Bett.
+- **caller:** Die liegt ja schon seit zwei Wochen im Bett.
+- **caller:** Das sieht irgendwie gar nicht gut aus.
+- **calltaker:** Okay, gut.
+- **calltaker:** Mhm, okay.
+- **calltaker:** Trauen Sie sich zu, dass Sie die Frau Hamburger reanimieren?
+- **caller:** Nein, die atmet.
+- **caller:** Ja, also die atmet.
+- **calltaker:** Ja, das hat sich aber so angehört, als ob das eine Schnappatmung ist.
+- **calltaker:** Da wäre eine Renommation hilfreich.
+- **caller:** Ah, ah, oh, oh, ja, ähm, ähm, ja, sicher, sicher, natürlich, natürlich, klar, das...
+- **calltaker:** Okay, dann ziehen Sie einmal bitte die Frau Hamburger aus dem Bett, dass sie auf dem Boden liegt.
+- **caller:** Okay, dann, ich bin aber ganz alleine, also sie fällt dann aus dem Bett, sie wird aus dem Bett fallen.
+- **calltaker:** Ja, das ist egal.
+- **calltaker:** Das ist egal.
+- **calltaker:** Ziehen Sie sie einfach auf den Boden.
+- **calltaker:** Ja, legt sie auf den Boden?
+- **caller:** Ja, ja, ja, okay, ja, jetzt hat sie sich auch noch den Kopf gestoßen, ja.
+- **calltaker:** Das ist egal.
+- **caller:** Ja.
+- **calltaker:** Okay.
+- **calltaker:** Dann... Genau, Sie müssen drücken.
+- **caller:** Ja.
+- **caller:** Und, äh, ja, ich hab das in der Führerscheinprüfung gelernt, ja.
+- **caller:** Ich muss drücken.
+- **calltaker:** Wissen Sie noch wo?
+- **caller:** Ja, ich drücke.
+- **caller:** Bitte?
+- **calltaker:** Wissen Sie noch wo?
+- **caller:** Ja, ich weiß, wo ich drücken muss, ja.
+- **calltaker:** Okay.
+- **caller:** Aber, ähm, jetzt, ähm, also, ich mach noch schnell die Tür auf, weil sonst kommt ja keiner rein.
+- **calltaker:** Ja, drücken Sie einfach, ja, dann machen Sie erst die Tür auf, auch okay.
+- **caller:** Ich mach ganz schnell... Ja.
+- **calltaker:** Die Kollegen sind schon alarmiert, die sind auf dem Weg zu Ihnen, ja.
+- **caller:** Ja, ich drücke.
+- **caller:** Ja.
+- **caller:** Die Tür ist auf.
+- **caller:** Ja, ich fange an zu drücken.
+- **calltaker:** Ja, okay.
+- **calltaker:** Okay, die Kollegen sind auf dem Weg zu Ihnen, ja.
+- **calltaker:** Auf Wiederhören, tschüss.
+- **caller:** Ja, danke.
+- **caller:** Tschüss.

@@ -1,0 +1,65 @@
+- calltaker: Emergency fire and ambulance service, in which town is the emergency?
+- caller: Hello, this is Mrs. Müller.
+- caller: There is a woman sitting on the street.
+- calltaker: Mrs. Müller, where are you?
+- caller: I am in Merzig.
+- caller: The street is Fitterstraße.
+- caller: There is a woman sitting on the street.
+- caller: I think she is pregnant.
+- calltaker: Yes.
+- calltaker: Where on Fitterstraße are you, Mrs. Müller?
+- caller: One moment, I have to look.
+- caller: So we are here on the street.
+- caller: It is probably in front of the house with number 17.
+- calltaker: Okay, house number 17.
+- caller: Yes, so I think you need to come quickly.
+- calltaker: There is a woman sitting on the street.
+- caller: Yes, there is a woman sitting on the street.
+- caller: She is a young woman and I think she is pregnant.
+- caller: And there is also blood.
+- caller: on her trousers and she keeps holding her abdomen and seems to have severe pain.
+- caller: And the woman is very pale.
+- calltaker: Okay, can you talk to the woman?
+- calltaker: The woman is responsive and conscious.
+- caller: Yes, yes, I can talk to her, but she is, well I think she is very anxious and I don't know, she is a little confused.
+- caller: And she is breathing quickly as well.
+- calltaker: How old is the woman, did you say?
+- caller: She is a young woman, so about 30, I don't know exactly.
+- caller: But I think you need to come quickly.
+- caller: She is really in a lot of pain.
+- calltaker: And you said there is blood on her trousers?
+- caller: Yes, not a lot, but there is blood.
+- caller: And she has sweat on her forehead.
+- caller: So I don't know what to do now.
+- calltaker: Okay.
+- calltaker: Can you try to calm her a little, talk to her?
+- caller: Yes, I can certainly do that.
+- caller: I can do that well, yes.
+- calltaker: Okay.
+- calltaker: Is her breathing normal?
+- caller: Yes, she is breathing a little fast, but only a bit, a bit fast.
+- caller: Hello, what's your name?
+- caller: Her name is Elena.
+- caller: Yes.
+- caller: But you must send someone quickly, please.
+- calltaker: Okay.
+- calltaker: Yes.
+- calltaker: That's not a problem, colleagues are on their way.
+- calltaker: I would ask you to stay with the woman and try to calm her until the colleagues arrive.
+- caller: Okay, what... yes.
+- caller: Yes, I will do that.
+- caller: Yes, I will do that.
+- caller: How long will it take?
+- calltaker: It won't take long, at most eight minutes.
+- caller: Eight minutes, oh God, yes.
+- caller: But I will stay here, yes.
+- calltaker: The colleagues are coming as quickly as possible.
+- caller: There are also other people who have come to help, yes.
+- caller: There are people who are helping us.
+- calltaker: Understood.
+- caller: Good, then, yes.
+- caller: Hopefully someone will arrive soon.
+- calltaker: Colleagues are on their way.
+- calltaker: Thank you.
+- caller: Yes, thank you, thank you.
+- caller: Goodbye.

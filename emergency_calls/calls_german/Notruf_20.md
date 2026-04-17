@@ -1,0 +1,110 @@
+# Notruf_20
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst, in welchem Ort ist der Notfall?
+- **caller:** Also ich weiß es nicht, ich bin hier mitten im Wald.
+- **caller:** Also keine Schnittschutzbuchs, keine Schnittschutzbuchs.
+- **caller:** Der hat sich voll mit der Kettensäge ins Bein gesemmelt.
+- **calltaker:** Wo genau im Wald sind sie denn, in welchem Wald?
+- **caller:** In Ormesheim, wissen Sie, wo da dieser Aussichtsturm ist?
+- **caller:** Der Aussichtsturm gegenüber vom Hunaker Hof.
+- **calltaker:** Ja.
+- **caller:** Da ist doch so eine Bestattung, so Friedwald, Friedwald, da in der Nähe.
+- **calltaker:** Ist da irgendwo so ein Wild-Hinweisschild mit einem Alarmpunkt?
+- **caller:** Der hat sich... Keine Ahnung.
+- **caller:** Keine Ahnung, keine Ahnung.
+- **caller:** Weiß ich nicht.
+- **caller:** Ich bin hier mit meinem Hund unterwegs.
+- **caller:** Keine Schnittschutzbox hat der an, der Typ.
+- **calltaker:** Ja.
+- **caller:** Der hat sich voll... Franziska.
+- **calltaker:** Wie heißen Sie?
+- **calltaker:** Franziska Wie?
+- **caller:** Franziska Kaiser.
+- **calltaker:** Kaiser.
+- **calltaker:** Und Sie haben jetzt im Wild eine Person angetroffen, die sich mit der Kettensäge verletzt hat.
+- **caller:** Ja, der schreit wie am Spiels.
+- **caller:** Das Blut spritzt.
+- **caller:** Der Unterschenkel.
+- **caller:** Oh, Jesus, nee.
+- **calltaker:** Er hat sich mit der Kettensäge in den Unterschenkel geschnitten.
+- **caller:** Jock, der hat keine Schnittschutzbuchs an.
+- **calltaker:** Ist der Fuß, also ist der Unterschenkel noch dran oder ganz amputiert?
+- **caller:** Ja, ja, ja, nee, das ist aber alles, also, ja, das ist, ja, das ist alles kaputt, alles kaputt und spritzt.
+- **caller:** Also, ja, der schreit wie am Spieß.
+- **calltaker:** Ist der Mann noch bei Bewusstsein?
+- **caller:** Der schreit, der schreit.
+- **calltaker:** Okay.
+- **calltaker:** Haben sie irgendwas dabei, um die Blutung zu stillen?
+- **caller:** Ja, ich hab einen Gürtel an, nee, ich hab eine Hundeleine, ich kann was mit der Hundeleine.
+- **caller:** abbinden.
+- **caller:** Das kriege ich hin.
+- **calltaker:** Okay, das wäre gut.
+- **caller:** Ja, ja, ja.
+- **caller:** Bitte, bitte schnell.
+- **calltaker:** Das sind so 10 cm oberhalb der Wunde.
+- **caller:** Bitte schnell.
+- **caller:** Zehn Zentimeter, ja, alles klar.
+- **calltaker:** Die Kollegen sind unterwegs.
+- **caller:** Ja, danke.
+- **caller:** Bitte schnell.
+- **calltaker:** Ich bleibe noch bei ihm mit dem Telefon.
+- **caller:** Ja, das ist gut.
+- **caller:** Das ist gut.
+- **caller:** Hey, wie heißt du denn?
+- **caller:** Ei, Franz.
+- **caller:** Franz heißt er.
+- **caller:** Franz.
+- **caller:** Das ist der Franz.
+- **calltaker:** Ja.
+- **caller:** Franz.
+- **caller:** Scheißhaar hast du hier gebaut.
+- **caller:** Ja, das weiß er selbst, sagt er.
+- **calltaker:** Also ist auch noch ansprechbar, atmet ganz normal.
+- **caller:** Das ist auch noch ansprechbar.
+- **caller:** Ja, er ist ansprechbar.
+- **caller:** Ja, er ist ansprechbar.
+- **caller:** Er ist bei Bewusstsein.
+- **caller:** Ich habe jetzt hier die Hundeleine drum gemacht.
+- **caller:** Ich ziehe das so fest, ich kann.
+- **calltaker:** Weiß der Franz wie lange das jetzt her ist?
+- **caller:** Weißt du, Franz, wie lange das jetzt her ist?
+- **caller:** Franz?
+- **caller:** Franz, wann ist denn das passiert?
+- **caller:** Ich bin direkt... Komm, vor drei Minuten.
+- **calltaker:** Alles klar.
+- **caller:** Vor drei Minuten.
+- **caller:** Ja, Gott sei Dank.
+- **caller:** Gott sei Dank bin ich hier gerade vorbeigekommen.
+- **caller:** Ich ziehe das jetzt zu, so fest ich kann.
+- **caller:** Jetzt schreit er noch mehr.
+- **calltaker:** Ist das der rechte oder der linke Unterschenkel?
+- **caller:** Links.
+- **caller:** Links.
+- **caller:** Linker Unterschenkel.
+- **caller:** Jetzt schreit er noch mehr, aber ich muss festziehen.
+- **caller:** Nutzt ja nichts.
+- **calltaker:** Ja, sie müssen fest ziehen, das geht leider nicht anders.
+- **caller:** Das tut weh, aber ja.
+- **caller:** Das andere tut noch mehr weh, glaube ich.
+- **caller:** Oder ist es noch schlimmer?
+- **caller:** Also muss jetzt bitte schnell einer kommen.
+- **calltaker:** Die Kollegen sind schon auf dem Weg.
+- **caller:** Gut.
+- **calltaker:** Wie alt ist der Franz denn ungefähr?
+- **caller:** Franz, Franz, wie alt bist denn du?
+- **caller:** 38 ist er, sagt er.
+- **caller:** Omasheimer, Omasheimer heißt er.
+- **calltaker:** 38.
+- **calltaker:** Frank Ommersheimer.
+- **caller:** Franz, Franz, du musst dich jetzt zusammenreißen, Franz.
+- **caller:** Ja, da kommen sie.
+- **caller:** Ich höre es schon, sie kommen.
+- **caller:** Ja, alles klar, sie kommen.
+- **caller:** Ich winke dann mal, ne?
+- **caller:** Ich rufe.
+- **calltaker:** Alles klar.
+- **calltaker:** Dankeschön.
+- **calltaker:** Tschüss.
+- **caller:** Ja, tschüss, tschüss.

@@ -1,0 +1,55 @@
+- calltaker: Emergency dispatch, fire and ambulance service.
+- calltaker: Where exactly is the emergency location?
+- caller: Yes, well, I'm in Neunkirchen.
+- caller: Schmidt is my name, hello.
+- caller: But I'm calling about my grandmother.
+- caller: The grandmother, she is in Saarbrücken.
+- calltaker: Yes, the emergency location is in Saarbrücken.
+- caller: Exactly, yes, in Saarbrücken, yes.
+- calltaker: What is the street?
+- caller: Eisenbahnstraße.
+- caller: And, I think it should be number 24.
+- calltaker: Eisenbahnstraße 24.
+- caller: Exactly.
+- calltaker: Is that a single-family home?
+- caller: No, it's a larger building with several floors.
+- calltaker: Okay.
+- calltaker: On which floor is your grandmother?
+- caller: Right.
+- calltaker: Yes, and you are Mr. Schmidt?
+- caller: Oh, on the third, she should live on the third floor, yes.
+- caller: But Schmidt is also on the doorbell, so it's easy to find.
+- caller: Exactly.
+- calltaker: Exactly.
+- calltaker: Okay.
+- calltaker: How old is Mrs. Schmidt?
+- caller: My grandma — she's about 80, she's 82.
+- calltaker: My grandmother is 82.
+- calltaker: 82.
+- calltaker: Okay.
+- calltaker: What happened?
+- caller: I talked to her on the phone earlier and she says she is not feeling well at all, all day.
+- caller: And she has already vomited about five times and she says she is very weak and says she can't go on.
+- calltaker: Okay, is she currently conscious?
+- caller: And she said when she vomited it was very, very dark — almost black.
+- caller: I can hardly imagine that.
+- caller: I didn't see it myself, but that's what she told me.
+- caller: But I can't go there myself.
+- caller: Yes, I just spoke with her on the phone, yes.
+- calltaker: Okay, does she have any circulatory problems?
+- caller: As I said, very weak.
+- caller: Yes, I think she is weak due to her circulation as well.
+- calltaker: Okay.
+- calltaker: Has she had this before?
+- caller: No, uh.
+- calltaker: Okay.
+- calltaker: Alright, the crews are on their way to her, okay?
+- caller: Yes, great, thanks.
+- caller: So to my grandmother, not to me, right?
+- caller: Exactly, because I'm in Neunkirchen.
+- calltaker: Yes, that's clear.
+- calltaker: Yes, I know that.
+- caller: All right, thank you very much.
+- caller: Bye.
+- calltaker: I'm off.
+- calltaker: Bye.

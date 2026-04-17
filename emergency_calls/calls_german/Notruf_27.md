@@ -1,0 +1,44 @@
+# Notruf_27
+
+## Dialog
+
+- **calltaker:** Feuerwehr, Notruf und Rettungsdienst.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** Ja, Holbein hier, hallo.
+- **caller:** Ich bin in St. Wendel, bei mir zu Hause in der Mapingerstraße 5.
+- **caller:** Meine Frau ist gestürzt und hat... Jetzt blutet ihr am Kopf und reagiert nicht mehr so richtig.
+- **calltaker:** Ja, warten Sie mal.
+- **calltaker:** Marpinger Straße, Haus Nummer 5, das Einfamilienhaus.
+- **caller:** Äh, genau, aber wir sind hinten im Gartenhaus.
+- **caller:** Das ist so, wenn man die Einfahrt... Muss man nach dem Haus rechts vorbei und dann so 100 Meter so ein bisschen in den Garten rein.
+- **caller:** Und da sind wir jetzt im Gartenhaus.
+- **calltaker:** Wie alt ist denn Ihre Frau?
+- **caller:** Genau, ja.
+- **caller:** Und meine Frau, die ist irgendwie gestolpert und ist dann gefallen und ist mit dem Kopf in die Tischplatte eingeschlagen und jetzt reagiert die nicht mehr so richtig.
+- **caller:** 35 ist die.
+- **calltaker:** 35.
+- **calltaker:** 35.
+- **calltaker:** Irgendwas an vorher krank bekannt?
+- **caller:** Nee, überhaupt nichts.
+- **calltaker:** Okay.
+- **calltaker:** Gut.
+- **calltaker:** Und sie reagiert dann nicht mehr richtig.
+- **caller:** Noch so ein bisschen, aber sie ist so ein bisschen verlangsamt.
+- **caller:** Deshalb mache ich mir da Sorgen, weil sie auch am Kopf blutet.
+- **calltaker:** Ja.
+- **calltaker:** Atmet sie denn nochmal?
+- **caller:** Ja, ja, ja.
+- **calltaker:** Ja.
+- **calltaker:** Okay.
+- **calltaker:** Hat sie Schmerzen angegeben oder war sie direkt eingetrübt?
+- **caller:** Nee, sie sagt, sie hat Kopfschmerzen.
+- **caller:** Also ich kann jetzt auch hier mit ihr reden, aber sie reagiert nicht so richtig gut.
+- **calltaker:** Die Kollegen sind auf dem Weg zu Ihnen.
+- **calltaker:** Es ist irgendwie möglich, dass noch irgendjemand vorbeikommt oder dass Sie sich irgendwie besser aufmerksam machen können, dass die Kollegen Sie besser finden.
+- **caller:** Ich bin alleine mit meiner Frau.
+- **caller:** Ich will die jetzt nicht unbedingt alleine lassen, aber ich lasse die Tür auf und dann höre ich die Kollegen schon, wenn die kommen.
+- **calltaker:** Okay, wenn die Kollegen kommen, dann können sie ja kurz an die Straße kommen.
+- **caller:** Genau, aber wie gesagt, die sollen einfach in die Einfahrt reinfahren und dann müssen die so 100 Meter laufen, dann sehen sie das Gartenhaus.
+- **calltaker:** Ja, das habe ich auch von den Kollegen so mitgeteilt.
+- **caller:** Super, super, vielen Dank.
+- **calltaker:** Ja, gerne doch auch.

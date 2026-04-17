@@ -1,0 +1,43 @@
+# Notruf_25
+
+## Dialog
+
+- **calltaker:** Notruf Feuerwehr und Rettungsdienst.
+- **caller:** Ja, Meier hier, hallo, hier liegt jemand, der reagiert kaum noch.
+- **calltaker:** Wo genau ist der Notfallort?
+- **caller:** In Saarbrücken, direkt vor der Bahnhofstraße, wissen Sie da an der Bahnhaltestelle von der Saarbahn?
+- **calltaker:** Ja, wo sind Sie denn?
+- **calltaker:** Ja, wie heißt denn die Saar-Bahn-Haltestelle?
+- **caller:** Johanneskirchen müsste das sein.
+- **calltaker:** Johanneskirche.
+- **calltaker:** Okay.
+- **calltaker:** Gut, kennen Sie die Person?
+- **caller:** Nee, keine Ahnung.
+- **caller:** Der sieht aus, als wäre das... Das ist ein Mann.
+- **calltaker:** Männlich oder weiblich?
+- **caller:** Und der sieht aus, als wäre das einer von den Obdachlosen, die hier immer rumsitzen.
+- **calltaker:** Wie alt schätzt du den Mann?
+- **calltaker:** Ungefähr 45.
+- **caller:** Ich würde sagen, so 45 ungefähr.
+- **caller:** Genau, genau.
+- **calltaker:** Ist der Mann der momentane Bewusstsein, wenn Sie ihn ansprechen?
+- **caller:** Nee, fast gar nicht.
+- **caller:** Also so ganz klein bisschen, wenn man richtig an dem rüttelt, aber sonst überhaupt nicht.
+- **calltaker:** Reagiert er?
+- **calltaker:** Atmet er denn normal?
+- **caller:** Und der hat...
+- **caller:** Ja, atmen tut er schon normal.
+- **calltaker:** Ja, liegt der denn auf der Seite oder wie liegt der denn momentan?
+- **caller:** Aber er hat erbrochen und ist so ziemlich blass und so.
+- **caller:** Also ich weiß nicht, ob er Drogen genommen hat vielleicht oder Alkohol oder sowas.
+- **caller:** Aber der hat auf jeden Fall erbrochen und deshalb ist mir das komisch vorgekommen.
+- **caller:** Der liegt so auf dem Rücken, so ein bisschen zusammengekauert.
+- **calltaker:** Ja, dann tun Sie mal bitte den Gefallen und drehen Sie ihn bitte so auf die Seite, am besten in die stabile Seitelage oder zumindest mal so auf die Seite, dass der Kopf die niedrigste
+- **calltaker:** Der niedrigste Punkt ist, dass das Erbrochene einfach abfließend hang.
+- **caller:** Ja, alles klar.
+- **caller:** Ja, mache ich.
+- **caller:** Ja, perfekt.
+- **calltaker:** Okay, die Kollegen sind auch schon auf dem Weg zu Ihnen, ja?
+- **caller:** Vielen Dank.
+- **caller:** Tschüss.
+- **calltaker:** Ja, tschüss.

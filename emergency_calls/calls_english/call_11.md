@@ -1,0 +1,60 @@
+- calltaker: Emergency, fire department and rescue service.
+- calltaker: Exactly where is the emergency?
+- caller: Hello, this is Mrs. Ritter.
+- caller: I am from the Abus and Learning Center in Marpingen.
+- caller: This is the Residence at the Old Mill.
+- calltaker: In Marpingen.
+- calltaker: Argo, Aldersheim, that is in Marpingen.
+- calltaker: I have found it.
+- calltaker: Which ward / living area?
+- caller: Two.
+- calltaker: Ward 2.
+- calltaker: Okay, who is it about?
+- caller: It is about our Otto; we found him earlier in the bathroom — he appears to have fallen.
+- calltaker: Okay.
+- calltaker: How old is Otto?
+- caller: Otto is 77 years old.
+- calltaker: 77 years, okay.
+- calltaker: Does he have any notable medical history?
+- caller: Ah, well his file is... it's about four kilos, very thick — he has dementia, diabetes, prior myocardial infarction, hypertension, everything.
+- calltaker: Okay, various things listed.
+- caller: So, everything.
+- calltaker: Okay, good.
+- calltaker: Yes.
+- calltaker: Okay.
+- calltaker: Good.
+- calltaker: If you address Otto, does he respond normally?
+- caller: Well, Mr. Leibniz is demented, so as usual, I would say.
+- calltaker: Yes, within the limits of his condition... Is this the same as usual or significantly worse than usual?
+- caller: You know, I just came back from vacation, and this is not my usual station, so I can't really judge that well.
+- calltaker: Mhm.
+- calltaker: Otto is breathing normally.
+- caller: Yes, I would say so.
+- calltaker: Okay.
+- calltaker: Any circulatory problems?
+- caller: He fell, but I don't know why.
+- caller: But he is still lying on the floor.
+- calltaker: Okay.
+- calltaker: Is Otto in pain?
+- caller: I didn't dare to move him now.
+- calltaker: When he is lying there, is he showing pain related to his dementia, or is he actually experiencing pain?
+- caller: He is shouting a lot, yes.
+- caller: Both.
+- calltaker: Okay, good.
+- calltaker: Do you see obvious injuries or blood?
+- caller: There is a small pool of blood and he has a head laceration.
+- caller: You know, he also takes that one medication for his hypertension and prior myocardial infarction.
+- calltaker: Okay, good.
+- calltaker: Eliquis or aspirin?
+- calltaker: Yes, okay.
+- caller: Yes exactly, Eliquis, exactly.
+- calltaker: Good, the crew are on their way.
+- calltaker: What was your name?
+- caller: I am Mrs. Melanie Ritter.
+- calltaker: Mrs. Ritter.
+- calltaker: Okay.
+- calltaker: Mrs. Ritter, the crew are on their way.
+- calltaker: There are only a few of you there, right?
+- caller: The housekeeping staff are hurrying.
+- calltaker: Yes, of course.
+- calltaker: Always.

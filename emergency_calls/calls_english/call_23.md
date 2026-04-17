@@ -1,0 +1,65 @@
+- calltaker: Emergency call — fire department and ambulance service, where exactly is the emergency?
+- caller: Hello, this is Mrs. Lieber nicht.
+- caller: We live in Plieskastel, Zweibrücker Straße 9.
+- caller: Lieber nicht.
+- caller: Lieber mich. My name is Chantal Lieber mich.
+- calltaker: Plieskastel and the street name again?
+- caller: Yes... Zweibrücker Straße 9 in Plieskastel.
+- caller: It is about my husband, Hans.
+- calltaker: Yes.
+- caller: Hans.
+- caller: Well, you know, he has...
+- caller: I don’t know either.
+- caller: He suddenly started talking incoherently.
+- caller: He suddenly didn’t know where he was.
+- calltaker: Yes.
+- calltaker: How old is Mr. Jermann?
+- caller: He is 48.
+- calltaker: 48 years old.
+- calltaker: Okay, is there any known heart disease in his history?
+- caller: He was recently... He came back from the hospital a week ago... no, three days ago.
+- caller: He received a new heart valve.
+- caller: And...
+- caller: He told me he didn’t know where he was.
+- caller: Then he told me he was going to bed to sleep, but it was only noon.
+- calltaker: Okay.
+- caller: I told him to sit on the couch for now, that he couldn’t go to sleep yet.
+- caller: And suddenly he saw bugs on his wool blanket.
+- caller: He is shaking and he is frightened.
+- caller: And oh God, now he’s vomiting too.
+- caller: Oh dear, now he’s vomiting.
+- calltaker: Okay.
+- calltaker: But Mr. Lieberlich is conscious?
+- caller: What should I do now?
+- calltaker: Yes or no?
+- calltaker: Is his breathing normal as well?
+- caller: Yes, yes, yes, yes.
+- caller: He is conscious, but... yes, he’s having this again.
+- calltaker: Is his circulation/blood pressure a problem?
+- caller: What?
+- calltaker: Is his circulation a problem?
+- caller: Circulation?
+- caller: I don’t know.
+- calltaker: Is he having any pain right now?
+- caller: I don’t know.
+- caller: No, he doesn’t have pain.
+- caller: He is also receiving medication for pain.
+- calltaker: What medications is he receiving?
+- caller: Oh.
+- caller: What do people get there?
+- caller: I don’t know.
+- caller: I don’t know.
+- caller: I would have to check what the medication is called.
+- calltaker: And you said he is now speaking complete nonsense/incoherently.
+- caller: Yes, he didn’t know where he was.
+- caller: He still thought he was in the hospital.
+- caller: But he has been at home now.
+- caller: For three days.
+- calltaker: Okay, the crew are on their way to you, all right?
+- caller: Yes, thank you very much.
+- caller: Thank you.
+- caller: I will open the door.
+- calltaker: Okay, goodbye.
+- calltaker: You’re welcome.
+- caller: Goodbye.
+- calltaker: Yes, goodbye.

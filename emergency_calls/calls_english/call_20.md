@@ -1,0 +1,106 @@
+- calltaker: Fire department and emergency medical services, in which town is the emergency?
+- caller: I don't know, I'm here in the middle of the forest.
+- caller: No chainsaw protective gear, no chainsaw protective gear.
+- caller: He has really driven the chainsaw into his leg.
+- calltaker: Where exactly in the forest are you, which forest?
+- caller: In Ormesheim, do you know where that lookout tower is?
+- caller: The lookout tower opposite Hunaker Hof.
+- calltaker: Yes.
+- caller: There's that kind of burial area, like a Friedwald, Friedwald, nearby.
+- calltaker: Is there any wildlife sign around there with an alarm point?
+- caller: He has... I don't know.
+- caller: No idea, no idea.
+- caller: I don't know.
+- caller: I'm out here with my dog.
+- caller: He doesn't have any chainsaw protective gear on, the guy.
+- calltaker: Yes.
+- caller: He has really... Franziska.
+- calltaker: What's your name?
+- calltaker: Franziska what?
+- caller: Franziska Kaiser.
+- calltaker: Kaiser.
+- calltaker: And you have found a person in the woods who injured himself with a chainsaw?
+- caller: Yes, he's screaming like crazy.
+- caller: The blood is spurting.
+- caller: The lower leg.
+- caller: Oh Jesus, no.
+- calltaker: He cut his lower leg with a chainsaw.
+- caller: Jock, he doesn't have any chainsaw protective trousers on.
+- calltaker: Is the foot — so is the lower leg still attached or is it completely amputated?
+- caller: Yes, yes, yes, no, it's all, I mean, yes, it's all destroyed, all destroyed and spurting.
+- caller: So, yes, he's screaming in agony.
+- calltaker: Is the man still conscious?
+- caller: He's screaming, he's screaming.
+- calltaker: Okay.
+- calltaker: Do you have anything with you to stop the bleeding?
+- caller: Yes, I have a belt on, no, I have a dog leash, I can use the dog leash.
+- caller: to tie off.
+- caller: I can do that.
+- calltaker: Okay, that would be good.
+- caller: Yes, yes, yes.
+- caller: Please, please quickly.
+- calltaker: That's about 10 cm above the wound.
+- caller: Please quickly.
+- caller: Ten centimeters, yes, all right.
+- calltaker: The crew are on the way.
+- caller: Yes, thanks.
+- caller: Please quickly.
+- calltaker: I'll stay with him on the phone.
+- caller: Yes, that's good.
+- caller: That's good.
+- caller: Hey, what's your name?
+- caller: Uh, Franz.
+- caller: His name is Franz.
+- caller: Franz.
+- caller: That's Franz.
+- calltaker: Yes.
+- caller: Franz.
+- caller: You've made a damn mess here.
+- caller: Yes, he knows that himself, he says.
+- calltaker: So he is still responsive, breathing normally.
+- caller: He is still responsive too.
+- caller: Yes, he is responsive.
+- caller: Yes, he is responsive.
+- caller: He is conscious.
+- caller: I've put the dog leash around it now.
+- caller: I'm tightening it as hard as I can.
+- calltaker: Does Franz know how long ago this happened?
+- caller: Do you know, Franz, how long ago this happened?
+- caller: Franz?
+- caller: Franz, when did this happen?
+- caller: I was just... come on, three minutes ago.
+- calltaker: All right.
+- caller: Three minutes ago.
+- caller: Yes, thank God.
+- caller: Thank God I just happened to walk by.
+- caller: I'm tightening it now as hard as I can.
+- caller: Now he's screaming even more.
+- calltaker: Is that the right or the left lower leg?
+- caller: Left.
+- caller: Left.
+- caller: Left lower leg.
+- caller: Now he's screaming even more, but I have to tighten it.
+- caller: There's no other choice.
+- calltaker: Yes, you have to tighten it, unfortunately there's no other way.
+- caller: It hurts, but yes.
+- caller: The other one hurts even more, I think.
+- caller: Or is it even worse?
+- caller: So someone has to come quickly now, please.
+- calltaker: The crew are already on the way.
+- caller: Good.
+- calltaker: How old is Franz approximately?
+- caller: Franz, Franz, how old are you?
+- caller: He's 38, he says.
+- caller: Omasheimer, his name is Omasheimer.
+- calltaker: 38.
+- calltaker: Frank Ommersheimer.
+- caller: Franz, Franz, you have to pull yourself together now, Franz.
+- caller: Yes, they're coming.
+- caller: I can already hear them, they're coming.
+- caller: Yes, all right, they're coming.
+- caller: I'll wave then, okay?
+- caller: I'll shout.
+- calltaker: All right.
+- calltaker: Thank you.
+- calltaker: Goodbye.
+- caller: Yes, bye, bye.
